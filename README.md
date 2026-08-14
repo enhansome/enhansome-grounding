@@ -159,7 +159,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 24. Deng, Jiajun, et al. **TransVG: End-to-End Visual Grounding with Transformers.** arXiv preprint arXiv:2104.08541 (2021). [\[Paper\]](https://arxiv.org/pdf/2104.08541) [\[Unofficial Code\]](https://github.com/nku-shengzheliu/Pytorch-TransVG) ⭐ 50 | 🐛 4 | 🌐 Python | 📅 2021-06-07
 
-25. Chen, Zhangquan, et al. **VisRL: Intention-Driven Visual Perception via Reinforced Reasoning.** ICCV 2025. [\[Paper\]](https://arxiv.org/abs/2503.07523) [\[Code\]](https://github.com/zhangquanchen/VisRL) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2025-11-08 [\[Website\]](https://tsinghua88.github.io/visrl.github.io/)
+25. Chen, Zhangquan, et al. **VisRL: Intention-Driven Visual Perception via Reinforced Reasoning.** ICCV 2025. [\[Paper\]](https://arxiv.org/abs/2503.07523) [\[Code\]](https://github.com/zhangquanchen/VisRL) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2025-11-08 [\[Website\]](https://tsinghua88.github.io/visrl.github.io/)
 
 26. Wang, Qinxin, et al. **MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding.** arXiv preprint arXiv:2010.05379 (2020). [\[Paper\]](https://arxiv.org/pdf/2010.05379) [\[Code\]](https://github.com/qinzzz/Multimodal-Alignment-Framework) ⭐ 45 | 🐛 4 | 🌐 Python | 📅 2020-11-25
 
@@ -189,9 +189,9 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 39. Yu, Zhou, et al. **Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding.** arXiv preprint arXiv:1805.03508 (2018). [\[Paper\]](https://www.ijcai.org/proceedings/2018/0155.pdf) [\[Code\]](https://github.com/XiangChenchao/DDPN) ⭐ 23 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-06-27
 
-40. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2020-12-20
+40. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [\[Paper\]](https://arxiv.org/abs/2508.06259) [\[Code\]](https://github.com/zhangquanchen/SIFThinker) ⭐ 23 | 🐛 0 | 📅 2025-12-02
 
-41. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [\[Paper\]](https://arxiv.org/abs/2508.06259) [\[Code\]](https://github.com/zhangquanchen/SIFThinker) ⭐ 22 | 🐛 0 | 📅 2025-12-02
+41. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2020-12-20
 
 42. Wang, Josiah, and Lucia Specia. **Phrase Localization Without Paired Training Examples.** arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/abs/1908.07553) [\[Code\]](https://github.com/josiahwang/phraseloceval) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2019-08-16
 
@@ -358,7 +358,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding Pretraining
 
-1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,607 | 🐛 119 | 🌐 Python | 📅 2024-01-24
+1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,606 | 🐛 119 | 🌐 Python | 📅 2024-01-24
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 966 | 🐛 54 | 🌐 Python | 📅 2022-10-22
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

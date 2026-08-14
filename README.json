@@ -651,7 +651,7 @@
             "last_commit": "2025-11-08T03:53:36Z",
             "owner": "zhangquanchen",
             "repo": "VisRL",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -852,20 +852,6 @@
         },
         {
           "node_type": "item",
-          "title": "Chen, Long, et al. Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding. arXiv preprint arXiv:2009.01449 (AAAI-2021). [Paper]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-20T08:51:53Z",
-            "owner": "ChopinSharp",
-            "repo": "ref-nms",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Chen, Zhangquan, et al. SIFThinker: Spatially-Aware Image Focus for Visual Reasoning. arXiv preprint arXiv:2508.06259. [Paper]",
           "description": "[Code]",
           "children": [],
@@ -875,6 +861,20 @@
             "last_commit": "2025-12-02T07:27:22Z",
             "owner": "zhangquanchen",
             "repo": "SIFThinker",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chen, Long, et al. Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding. arXiv preprint arXiv:2009.01449 (AAAI-2021). [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-20T08:51:53Z",
+            "owner": "ChopinSharp",
+            "repo": "ref-nms",
             "stars": 22
           }
         },
@@ -1239,7 +1239,7 @@
             "last_commit": "2024-01-24T04:56:27Z",
             "owner": "microsoft",
             "repo": "GLIP",
-            "stars": 2607
+            "stars": 2606
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:13:02.055Z",
+    "last_updated": "2026-08-14T03:10:03.450Z",
     "original_repository": "TheShadow29/awesome-grounding",
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
     "enhanced_repository": "enhansome/enhansome-grounding",
