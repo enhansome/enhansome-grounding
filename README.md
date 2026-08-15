@@ -121,7 +121,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 6. Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [\[Paper\]](https://arxiv.org/pdf/1511.02283.pdf) [\[Code\]](https://github.com/mjhucla/Google_Refexp_toolbox) ⭐ 166 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2017-03-01
 
-7. Yang, Zhengyuan, et al. **A Fast and Accurate One-Stage Approach to Visual Grounding.** arXiv preprint arXiv:1908.06354 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/pdf/1908.06354.pdf) [\[Code\]](https://github.com/zyang-ur/onestage_grounding) ⭐ 150 | 🐛 3 | 🌐 Python | 📅 2020-11-18
+7. Yang, Zhengyuan, et al. **A Fast and Accurate One-Stage Approach to Visual Grounding.** arXiv preprint arXiv:1908.06354 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/pdf/1908.06354.pdf) [\[Code\]](https://github.com/zyang-ur/onestage_grounding) ⭐ 149 | 🐛 3 | 🌐 Python | 📅 2020-11-18
 
 8. Luo, Gen, et al. **Multi-task collaborative network for joint referring expression comprehension and segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Multi-Task_Collaborative_Network_for_Joint_Referring_Expression_Comprehension_and_Segmentation_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/luogen1996/MCN) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2022-08-04
 
@@ -344,7 +344,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Grounded Description (Image) (WIP)
 
-1. Hendricks, Lisa Anne, et al. **Generating visual explanations.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1603.08507.pdf) [\[Code\]](https://github.com/LisaAnne/ECCV2016/) ⭐ 48 | 🐛 7 | 🌐 Python | 📅 2020-11-01 [\[Pytorch Code\]](https://github.com/salaniz/pytorch-gve-lrcn) ⭐ 92 | 🐛 5 | 🌐 Python | 📅 2022-12-05
+1. Hendricks, Lisa Anne, et al. **Generating visual explanations.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1603.08507.pdf) [\[Code\]](https://github.com/LisaAnne/ECCV2016/) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2020-11-01 [\[Pytorch Code\]](https://github.com/salaniz/pytorch-gve-lrcn) ⭐ 92 | 🐛 5 | 🌐 Python | 📅 2022-12-05
 
 2. Jiang, Ming, et al. **TIGEr: Text-to-Image Grounding for Image Caption Evaluation.** arXiv preprint arXiv:1909.02050 (2019). (EMNLP 2019) [\[Paper\]](https://arxiv.org/pdf/1909.02050.pdf) [\[Code\]](https://github.com/SeleenaJM/CapEval) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2020-05-03
 
@@ -360,7 +360,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,606 | 🐛 119 | 🌐 Python | 📅 2024-01-24
 
-2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 966 | 🐛 54 | 🌐 Python | 📅 2022-10-22
+2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 965 | 🐛 54 | 🌐 Python | 📅 2022-10-22
 
 3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

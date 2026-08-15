@@ -399,7 +399,7 @@
             "last_commit": "2020-11-18T19:34:54Z",
             "owner": "zyang-ur",
             "repo": "onestage_grounding",
-            "stars": 150
+            "stars": 149
           }
         },
         {
@@ -1205,7 +1205,7 @@
             "last_commit": "2020-11-01T19:31:21Z",
             "owner": "LisaAnne",
             "repo": "ECCV2016",
-            "stars": 48
+            "stars": 46
           }
         },
         {
@@ -1253,7 +1253,7 @@
             "last_commit": "2022-10-22T00:05:56Z",
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 966
+            "stars": 965
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:10:03.450Z",
+    "last_updated": "2026-08-15T02:01:35.008Z",
     "original_repository": "TheShadow29/awesome-grounding",
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
     "enhanced_repository": "enhansome/enhansome-grounding",
