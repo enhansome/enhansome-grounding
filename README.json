@@ -14,7 +14,7 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6923
+            "stars": 6924
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2020-12-22T22:26:36Z",
             "owner": "karpathy",
             "repo": "neuraltalk",
-            "stars": 5499
+            "stars": 5500
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:01:35.008Z",
+    "last_updated": "2026-08-16T02:08:31.054Z",
     "original_repository": "TheShadow29/awesome-grounding",
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
     "enhanced_repository": "enhansome/enhansome-grounding",
