@@ -14,7 +14,7 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6924
+            "stars": 6926
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2018-03-15T23:32:51Z",
             "owner": "jiyanggao",
             "repo": "TALL",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2020-10-31T15:57:43Z",
             "owner": "LisaAnne",
             "repo": "LocalizingMoments",
-            "stars": 199
+            "stars": 198
           }
         },
         {
@@ -1073,7 +1073,7 @@
             "last_commit": "2018-03-15T23:32:51Z",
             "owner": "jiyanggao",
             "repo": "TALL",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2020-10-31T15:57:43Z",
             "owner": "LisaAnne",
             "repo": "LocalizingMoments",
-            "stars": 199
+            "stars": 198
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:06:46.512Z",
+    "last_updated": "2026-08-18T02:02:54.992Z",
     "original_repository": "TheShadow29/awesome-grounding",
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
     "enhanced_repository": "enhansome/enhansome-grounding",
