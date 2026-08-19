@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,242 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,242 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,243 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,243 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,501 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,592 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,501 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,591 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2) ⭐ 1,126 | 🐛 3 | 📅 2025-09-21)**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [\[Paper\]](https://arxiv.org/pdf/1902.04213.pdf)
 
@@ -191,7 +191,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 40. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [\[Paper\]](https://arxiv.org/abs/2508.06259) [\[Code\]](https://github.com/zhangquanchen/SIFThinker) ⭐ 23 | 🐛 0 | 📅 2025-12-02
 
-41. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2020-12-20
+41. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2020-12-20
 
 42. Wang, Josiah, and Lucia Specia. **Phrase Localization Without Paired Training Examples.** arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/abs/1908.07553) [\[Code\]](https://github.com/josiahwang/phraseloceval) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2019-08-16
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
