@@ -360,7 +360,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,606 | 🐛 119 | 🌐 Python | 📅 2024-01-24
 
-2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 965 | 🐛 54 | 🌐 Python | 📅 2022-10-22
+2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 966 | 🐛 54 | 🌐 Python | 📅 2022-10-22
 
 3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
 
