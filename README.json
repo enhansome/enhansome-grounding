@@ -314,6 +314,28 @@
           "description": null,
           "node_type": "group",
           "title": "Video Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Matterport3D: Chang, Angel, et al. Matterport3d: Learning from rgb-d data in indoor environments. arXiv preprint arXiv:1709.06158 (2017). [Paper]",
+              "description": "[Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76594116,
+                "language": "C++",
+                "last_commit": "2025-11-03T12:14:52Z",
+                "owner": "niessner",
+                "repo": "Matterport",
+                "stars": 1245
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embodied Agents Platforms:"
         }
       ],
       "title": "Datasets"
@@ -340,8 +362,8 @@
             },
             {
               "node_type": "item",
-              "title": "RETRACTED (see #2): Deng, Chaorui, et al. You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding. arXiv preprint arXiv:1902.04213 (2019). [Paper]",
-              "description": null,
+              "title": "RETRACTED (see #2)",
+              "description": "Deng, Chaorui, et al. You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding. arXiv preprint arXiv:1902.04213 (2019). [Paper]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,6 +1141,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Krishna, Ranjay, et al. Referring relationships. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper]",
+              "description": "[Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97680527,
+                "language": "Python",
+                "last_commit": "2022-11-22T02:05:59Z",
+                "owner": "StanfordVL",
+                "repo": "ReferringRelationships",
+                "stars": 258
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grounding Relations / Referring Relations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Gao, Jiyang, et al. Tall: Temporal activity localization via language query. arXiv preprint arXiv:1705.02101 (2017). Method name: TALL [Paper]",
               "description": "[Code]",
               "children": [],
@@ -1298,6 +1342,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Zhou, Luowei, et al. Grounded video description. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 175714474,
+                "language": "Python",
+                "last_commit": "2021-10-12T21:32:51Z",
+                "owner": "facebookresearch",
+                "repo": "grounded-video-description",
+                "stars": 331
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grounded Description (Video) (WIP)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. Grounded language-image pre-training. arXiv preprint arXiv:2112.03857 (2021). [Paper]",
               "description": "[Code]",
               "children": [],
@@ -1308,7 +1374,7 @@
                 "last_commit": "2024-01-24T04:56:27Z",
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2606
+                "stars": 2607
               }
             },
             {
@@ -1432,6 +1498,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Shridhar, Mohit, et al. ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks. arXiv preprint arXiv:1912.01734 (2019). [Paper]",
+              "description": "[Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227495032,
+                "language": "C",
+                "last_commit": "2026-02-05T10:08:24Z",
+                "owner": "askforalfred",
+                "repo": "alfred",
+                "stars": 529
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grounding for Embodied Agents (WIP):"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Yu, Xintong, et al. What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues. arXiv preprint arXiv:1909.00421 (2019). (EMNLP 2019) [Paper]",
               "description": "[Code]",
               "children": [],
@@ -1470,7 +1558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:09:40.957Z",
+    "last_updated": "2026-08-24T14:19:23.812Z",
     "original_repository": "TheShadow29/awesome-grounding",
     "original_repository_id": 147236836,
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
