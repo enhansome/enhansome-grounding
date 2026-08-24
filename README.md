@@ -362,7 +362,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 965 | 🐛 54 | 🌐 Python | 📅 2022-10-22
 
-3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
+3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 15 | 🌐 Python | 📅 2023-05-01
 
 4. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 (Neurips 2019) [\[Paper\]](https://arxiv.org/pdf/1908.02265.pdf) [\[Code\]](https://github.com/jiasenlu/vilbert_beta) ⭐ 478 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2022-11-21
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
