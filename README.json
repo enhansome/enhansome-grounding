@@ -1558,9 +1558,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:27:05.137Z",
-    "original_repository": "TheShadow29/awesome-grounding",
-    "original_repository_id": 147236836,
+    "last_updated": "2026-08-27T11:45:28.313Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 147236836,
+      "language": null,
+      "last_commit": "2025-09-21T10:32:22Z",
+      "owner": "TheShadow29",
+      "repo": "awesome-grounding",
+      "stars": 1127
+    },
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
     "enhanced_repository": "enhansome/enhansome-grounding",
     "enhanced_repository_description": null,
