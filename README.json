@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reading list for research topics in multimodal machine learning",
+            "homepage": null,
             "id": 188919037,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-20T19:46:33Z",
+            "open_issues": 13,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6925
+            "stars": 6924,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "healthcare",
+              "machine-learning",
+              "multimodal-learning",
+              "natural-language-processing",
+              "reading-list",
+              "reinforcement-learning",
+              "representation-learning",
+              "robotics",
+              "speech-processing"
+            ]
           },
           "first_seen": "2026-08-28T12:08:08.293Z"
         },
@@ -26,12 +43,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of “Temporally Language Grounding” and related area",
+            "homepage": null,
             "id": 189946247,
             "language": null,
+            "license": null,
             "last_commit": "2019-11-28T16:31:04Z",
+            "open_issues": 1,
             "owner": "WuJie1010",
             "repo": "Awesome-Temporally-Language-Grounding",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "activitynet-captions",
+              "charades",
+              "language-grounding",
+              "temporal-activity-localization",
+              "temporal-language-grounding",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T12:08:08.293Z"
         },
@@ -42,12 +71,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of grounding natural language in video and related area. :-)",
+            "homepage": null,
             "id": 179229851,
             "language": null,
+            "license": null,
             "last_commit": "2019-12-16T13:14:29Z",
+            "open_issues": 0,
             "owner": "iworldtong",
             "repo": "Awesome-Temporal-Sentence-Grounding-in-Videos",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:08:08.293Z"
         }
@@ -66,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring Expression Datasets API",
+                "homepage": null,
                 "id": 54487819,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
+                "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -82,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The toolbox for the Google Refexp dataset proposed in this paper: http://arxiv.org/abs/1511.02283",
+                "homepage": null,
                 "id": 47009782,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-03-01T23:57:39Z",
+                "open_issues": 3,
                 "owner": "mjhucla",
                 "repo": "Google_Refexp_toolbox",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -98,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph-Structured Referring Expressions Reasoning in The Wild, In CVPR 2020, Oral.",
+                "homepage": null,
                 "id": 256972479,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-10T14:01:38Z",
+                "open_issues": 10,
                 "owner": "sibeiyang",
                 "repo": "sgmn",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -114,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Talk2Car dataset repo",
+                "homepage": null,
                 "id": 247939145,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-01T20:25:09Z",
+                "open_issues": 1,
                 "owner": "talk2car",
                 "repo": "Talk2Car",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -130,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GuessWhat?! Baselines",
+                "homepage": null,
                 "id": 93632073,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-12T08:53:55Z",
+                "open_issues": 5,
                 "owner": "GuessWhatGame",
                 "repo": "guesswhat",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -146,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of our paper 'Refer-it-in-RGBD' in CVPR 2021",
+                "homepage": null,
                 "id": 343636575,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-24T03:26:39Z",
+                "open_issues": 3,
                 "owner": "HaolinLiu97",
                 "repo": "Refer-it-in-RGBD",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -162,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for our paper \"Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues.\"",
+                "homepage": null,
                 "id": 74321287,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-08T19:47:56Z",
+                "open_issues": 1,
                 "owner": "BryanPlummer",
                 "repo": "pl-clc",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -178,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accepted by CVPR 2020. ",
+                "homepage": null,
                 "id": 247587772,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-11T16:54:21Z",
+                "open_issues": 3,
                 "owner": "zfchenUnique",
                 "repo": "Cops-Ref",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -194,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+                "homepage": null,
                 "id": 163887446,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-20T00:54:41Z",
+                "open_issues": 1,
                 "owner": "ccvl",
                 "repo": "clevr-refplus-dataset-gen",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -210,12 +289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 285158946,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-28T15:19:58Z",
+                "open_issues": 3,
                 "owner": "wangpengnorman",
                 "repo": "KB-Ref_dataset",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -233,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TALL: Temporal Activity Localization via Language Query",
+                "homepage": null,
                 "id": 98120888,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-15T23:32:51Z",
+                "open_issues": 10,
                 "owner": "jiyanggao",
                 "repo": "TALL",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -249,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github for my ICCV 2017 paper: \"Localizing Moments in Video with Natural Language\"",
+                "homepage": null,
                 "id": 99381106,
                 "language": "OpenEdge ABL",
+                "license": null,
                 "last_commit": "2020-10-31T15:57:43Z",
+                "open_issues": 12,
                 "owner": "LisaAnne",
                 "repo": "LocalizingMoments",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -265,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Dataset for Grounded Video Description",
+                "homepage": null,
                 "id": 162484235,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-04T20:28:35Z",
+                "open_issues": 3,
                 "owner": "facebookresearch",
                 "repo": "ActivityNet-Entities",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -281,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 156412318,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-08T22:25:23Z",
+                "open_issues": 3,
                 "owner": "LisaAnne",
                 "repo": "TemporalLanguageRelease",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -302,12 +406,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Activity Recognition Algorithms for the Charades Dataset",
+                    "homepage": "http://allenai.org/plato/charades/",
                     "id": 83338563,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2018-12-31T23:17:30Z",
+                    "open_issues": 5,
                     "owner": "gsig",
                     "repo": "charades-algorithms",
-                    "stars": 206
+                    "stars": 206,
+                    "topics": [
+                      "activity-recognition",
+                      "charades",
+                      "lstm",
+                      "pytorch",
+                      "two-stream",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:08:08.293Z"
                 },
@@ -318,12 +434,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ActorObserverNet code in PyTorch from \"Actor and Observer: Joint Modeling of First and Third-Person Videos\", CVPR 2018",
+                    "homepage": null,
                     "id": 127202278,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-03-08T17:53:39Z",
+                    "open_issues": 10,
                     "owner": "gsig",
                     "repo": "actor-observer",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:08:08.293Z"
                 }
@@ -343,12 +464,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matterport3D is a pretty awesome dataset for RGB-D machine learning tasks :)",
+                "homepage": "https://niessner.github.io/Matterport/",
                 "id": 76594116,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-11-03T12:14:52Z",
+                "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1245
+                "stars": 1245,
+                "topics": [
+                  "3d-reconstruction",
+                  "semantic-scene-understanding"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -372,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.",
+                "homepage": null,
                 "id": 27244649,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-22T22:26:36Z",
+                "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5504
+                "stars": 5504,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -388,12 +522,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "awesome grounding: A curated list of research papers in visual grounding",
+                "homepage": null,
                 "id": 147236836,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-21T10:32:22Z",
+                "open_issues": 3,
                 "owner": "TheShadow29",
                 "repo": "awesome-grounding",
-                "stars": 1127
+                "stars": 1127,
+                "topics": [
+                  "arxiv",
+                  "awesome-list",
+                  "captioning-images",
+                  "captioning-videos",
+                  "computer-vision",
+                  "embodied-agent",
+                  "grounding",
+                  "image-grounding",
+                  "language-grounding",
+                  "multimodal-deep-learning",
+                  "natural-language-processing",
+                  "paper",
+                  "paper-roadmap",
+                  "papers",
+                  "phrase-grounding",
+                  "video-grounding",
+                  "video-understanding",
+                  "visual-grounding"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -404,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring Expression Datasets API",
+                "homepage": null,
                 "id": 54487819,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
+                "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -420,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAttNet: Modular Attention Network for Referring Expression Comprehension",
+                "homepage": "http://vision2.cs.unc.edu/refer",
                 "id": 120952127,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-29T04:15:30Z",
+                "open_issues": 22,
                 "owner": "lichengunc",
                 "repo": "MAttNet",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -436,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 62715394,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2016-08-13T01:08:08Z",
+                "open_issues": 10,
                 "owner": "akirafukui",
                 "repo": "vqa-mcb",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -452,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The toolbox for the Google Refexp dataset proposed in this paper: http://arxiv.org/abs/1511.02283",
+                "homepage": null,
                 "id": 47009782,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-03-01T23:57:39Z",
+                "open_issues": 3,
                 "owner": "mjhucla",
                 "repo": "Google_Refexp_toolbox",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -468,12 +646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fast and Accurate One-Stage Approach to Visual Grounding, ICCV 2019 (Oral)",
+                "homepage": null,
                 "id": 185658000,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-18T19:34:54Z",
+                "open_issues": 3,
                 "owner": "zyang-ur",
                 "repo": "onestage_grounding",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -484,12 +667,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2020] Multi-task Collaborative  Network for Joint  Referring Expression Comprehension and Segmentation, CVPR2020 (oral)",
+                "homepage": "https://arxiv.org/abs/2003.08813",
                 "id": 248506387,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-04T14:30:00Z",
+                "open_issues": 7,
                 "owner": "luogen1996",
                 "repo": "MCN",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "cvpr2020",
+                  "multi-task-learning",
+                  "referring-expression-comprehension",
+                  "referring-expression-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -500,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph-Structured Referring Expressions Reasoning in The Wild, In CVPR 2020, Oral.",
+                "homepage": null,
                 "id": 256972479,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-10T14:01:38Z",
+                "open_issues": 10,
                 "owner": "sibeiyang",
                 "repo": "sgmn",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -516,12 +714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph-Structured Referring Expressions Reasoning in The Wild, In CVPR 2020, Oral.",
+                "homepage": null,
                 "id": 256972479,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-10T14:01:38Z",
+                "open_issues": 10,
                 "owner": "sibeiyang",
                 "repo": "sgmn",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -532,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Hu et al. Natural Language Object Retrieval, in CVPR, 2016",
+                "homepage": "http://ronghanghu.com/text_obj_retrieval/",
                 "id": 48711759,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2016-07-31T05:55:10Z",
+                "open_issues": 3,
                 "owner": "ronghanghu",
                 "repo": "natural-language-object-retrieval",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -548,12 +756,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Knowledge Aided Consistency for Weakly Supervised Phrase Grounding in Tensorflow",
+                "homepage": null,
                 "id": 108696624,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-03-29T01:02:04Z",
+                "open_issues": 1,
                 "owner": "kanchen-usc",
                 "repo": "KAC-Net",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "attention-mechanism",
+                  "phrase-grounding",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -564,12 +781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving One-stage Visual Grounding by Recursive Sub-query Construction, ECCV 2020",
+                "homepage": null,
                 "id": 273954112,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-30T02:49:43Z",
+                "open_issues": 2,
                 "owner": "zyang-ur",
                 "repo": "ReSC",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -580,12 +802,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Grounding of Textual Phrases in Images by Reconstruction in Tensorflow",
+                "homepage": null,
                 "id": 126443579,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-03-29T01:02:41Z",
+                "open_issues": 2,
                 "owner": "kanchen-usc",
                 "repo": "GroundeR",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "attention-mechanism",
+                  "phrase-grounding",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -596,12 +827,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Hu et al. Segmentation from Natural Language Expressions. in ECCV, 2016",
+                "homepage": "http://ronghanghu.com/text_objseg",
                 "id": 59175723,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-29T00:29:48Z",
+                "open_issues": 6,
                 "owner": "ronghanghu",
                 "repo": "text_objseg",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -612,12 +848,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 112438587,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-02T19:15:41Z",
+                "open_issues": 2,
                 "owner": "lwwang",
                 "repo": "Two_branch_network",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -628,12 +869,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Multimodal Instance Segmentation Guided by Natural Language Queries, ECCV 2018",
+                "homepage": "https://biomedicalcomputervision.uniandes.edu.co",
                 "id": 105215829,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-21T20:05:01Z",
+                "open_issues": 2,
                 "owner": "BCV-Uniandes",
                 "repo": "DMS",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "computer-vision",
+                  "eccv-2018",
+                  "instance-segmentation",
+                  "natural-language",
+                  "natural-language-understanding"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -644,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning phrase grounding from captioned images through InfoNCE bound on mutual information",
+                "homepage": "http://tanmaygupta.info/info-ground/",
                 "id": 288890784,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-08-22T20:24:42Z",
+                "open_issues": 6,
                 "owner": "BigRedT",
                 "repo": "info-ground",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -660,12 +917,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of ICCV19 oral paper Zero-Shot grounding of Objects from Natural Language Queries (https://arxiv.org/abs/1908.07129)",
+                "homepage": null,
                 "id": 196621546,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-22T23:11:09Z",
+                "open_issues": 4,
                 "owner": "TheShadow29",
                 "repo": "zsgnet-pytorch",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "grounding",
+                  "nlp",
+                  "objects",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -676,12 +943,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Query-guided Regression Network with Context Policy for Phrase Grounding in Tensorflow",
+                "homepage": null,
                 "id": 108696726,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-03-30T06:00:30Z",
+                "open_issues": 2,
                 "owner": "kanchen-usc",
                 "repo": "QRC-Net",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "attention-mechanism",
+                  "phrase-grounding",
+                  "regression-models"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -692,12 +968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Hu et al. Modeling Relationships in Referential Expressions with Compositional Modular Networks. in CVPR, 2017",
+                "homepage": "http://ronghanghu.com/cmn/",
                 "id": 87152957,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-09-20T03:52:19Z",
+                "open_issues": 9,
                 "owner": "ronghanghu",
                 "repo": "cmn",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -708,12 +989,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AAAI2020-The official implementation of \"Learning Cross-modal Context Graph for Visual Grounding\"",
+                "homepage": null,
                 "id": 221908808,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-10-25T03:35:14Z",
+                "open_issues": 5,
                 "owner": "youngfly11",
                 "repo": "LCMCG-PyTorch",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "aaai2020",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -724,12 +1013,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'22] Official PyTorch Implementation of \"Collaborative Transformers for Grounded Situation Recognition\"",
+                "homepage": "https://coformer.github.io/",
                 "id": 475897623,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-09T08:53:40Z",
+                "open_issues": 0,
                 "owner": "jhcho99",
                 "repo": "CoFormer",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cvpr",
+                  "cvpr2022",
+                  "deep-learning",
+                  "grounded-situation-recognition",
+                  "pytorch",
+                  "scene-understanding",
+                  "tranformer",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -740,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial pytorch implementation of \"TransVG: End-to-End Visual Grounding with Transformers\".",
+                "homepage": null,
                 "id": 365450416,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-07T02:37:31Z",
+                "open_issues": 4,
                 "owner": "nku-shengzheliu",
                 "repo": "Pytorch-TransVG",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -756,12 +1064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] VisRL: Intention-Driven Visual Perception via Reinforced Reasoning",
+                "homepage": null,
                 "id": 945371311,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-08T03:53:36Z",
+                "open_issues": 0,
                 "owner": "zhangquanchen",
                 "repo": "VisRL",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -772,12 +1085,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for MAF: Multimodal Alignment Framework",
+                "homepage": null,
                 "id": 247822085,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-25T17:26:37Z",
+                "open_issues": 4,
                 "owner": "qinzzz",
                 "repo": "Multimodal-Alignment-Framework",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "localization",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -788,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of our paper 'Refer-it-in-RGBD' in CVPR 2021",
+                "homepage": null,
                 "id": 343636575,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-24T03:26:39Z",
+                "open_issues": 3,
                 "owner": "HaolinLiu97",
                 "repo": "Refer-it-in-RGBD",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -804,12 +1131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for our paper \"Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues.\"",
+                "homepage": null,
                 "id": 74321287,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-08T19:47:56Z",
+                "open_issues": 1,
                 "owner": "BryanPlummer",
                 "repo": "pl-clc",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -820,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for our paper \"Conditional Image-Text Embedding Networks\"",
+                "homepage": null,
                 "id": 111697265,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-19T23:24:54Z",
+                "open_issues": 1,
                 "owner": "BryanPlummer",
                 "repo": "cite",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -836,12 +1173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 97743025,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-23T20:02:39Z",
+                "open_issues": 1,
                 "owner": "chenxi116",
                 "repo": "TF-phrasecut-public",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -852,12 +1194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Learning to Assemble Neural Module Tree Networks for Visual Grounding (ICCV 2019)",
+                "homepage": null,
                 "id": 175385533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-23T07:10:03Z",
+                "open_issues": 2,
                 "owner": "daqingliu",
                 "repo": "NMTree",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -868,12 +1215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Localize objects in images using referring expressions",
+                "homepage": null,
                 "id": 60493859,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-01T02:33:45Z",
+                "open_issues": 2,
                 "owner": "varun-nagaraja",
                 "repo": "referring-expressions",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -884,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Torch Implementation of Speaker-Listener-Reinforcer for Referring Expression Generation and Comprehension",
+                "homepage": null,
                 "id": 73513462,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-03-08T05:14:25Z",
+                "open_issues": 3,
                 "owner": "lichengunc",
                 "repo": "speaker_listener_reinforcer",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -900,12 +1257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive Reconstruction Network for Weakly Supervised Referring Expression Grounding",
+                "homepage": null,
                 "id": 201855734,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-29T01:35:51Z",
+                "open_issues": 2,
                 "owner": "GingL",
                 "repo": "ARN",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -916,12 +1278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 125791654,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-07-26T05:55:59Z",
+                "open_issues": 0,
                 "owner": "liruiyu",
                 "repo": "referseg_rrn",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -932,12 +1299,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring Expression Object Segmentation with Caption-Aware Consistency, BMVC 2019",
+                "homepage": null,
                 "id": 154174137,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-21T19:28:03Z",
+                "open_issues": 0,
                 "owner": "wenz116",
                 "repo": "lang2seg",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "computer-vision",
+                  "cycle-consistency",
+                  "deep-learning",
+                  "object-detection",
+                  "object-segmentation",
+                  "pytorch",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -948,12 +1328,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR'18 \"Grounding Referring Expressions in Images by Variational Context\"",
+                "homepage": null,
                 "id": 113069662,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-07-04T20:50:12Z",
+                "open_issues": 2,
                 "owner": "yuleiniu",
                 "repo": "vc",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "cvpr2018",
+                  "grounding",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -964,12 +1353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official PyTorch code for \"Relation-aware Instance Refinement for Weakly Supervised Visual Grounding\" accepted by CVPR2021",
+                "homepage": null,
                 "id": 349943859,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-09T00:25:54Z",
+                "open_issues": 2,
                 "owner": "youngfly11",
                 "repo": "ReIR-WeaklyGrounding.pytorch",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -980,12 +1374,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding",
+                "homepage": null,
                 "id": 131275325,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-06-27T02:20:22Z",
+                "open_issues": 1,
                 "owner": "XiangChenchao",
                 "repo": "DDPN",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "caffe",
+                  "ddpn",
+                  "python",
+                  "visualgrounding"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -996,12 +1400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026] SIFThinker: Spatially-Aware Image Focus for Visual Reasoning",
+                "homepage": null,
                 "id": 1030669728,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-12-02T07:27:22Z",
+                "open_issues": 0,
                 "owner": "zhangquanchen",
                 "repo": "SIFThinker",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1012,12 +1421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codebase for \"Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding\"",
+                "homepage": null,
                 "id": 318063798,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-20T08:51:53Z",
+                "open_issues": 1,
                 "owner": "ChopinSharp",
                 "repo": "ref-nms",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1028,12 +1442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phrase Localization Evaluation Toolkit",
+                "homepage": null,
                 "id": 202547773,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-16T18:04:12Z",
+                "open_issues": 0,
                 "owner": "josiahwang",
                 "repo": "phraseloceval",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1044,12 +1463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "'Bi-directional Relationship Inferring Network for Referring Image Segmentation' CVPR2020",
+                "homepage": null,
                 "id": 249604940,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-02T01:39:29Z",
+                "open_issues": 4,
                 "owner": "fengguang94",
                 "repo": "BRINet",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1060,12 +1484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Soft-Label Chain Conditional Random Field for Phrase Grounding in PyTorch",
+                "homepage": null,
                 "id": 203043935,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-21T22:14:48Z",
+                "open_issues": 2,
                 "owner": "liujch1998",
                 "repo": "SoftLabelCCRF",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1076,12 +1505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iterative shrinking for referring expression grounding using deep reinforcement learning",
+                "homepage": null,
                 "id": 367538898,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-27T13:39:17Z",
+                "open_issues": 0,
                 "owner": "insomnia94",
                 "repo": "ISREG",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1092,12 +1526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for AAAI 2018 paper \"Using Syntax for Referring Expression Recognition\"",
+                "homepage": null,
                 "id": 120140076,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-10-07T22:03:34Z",
+                "open_issues": 4,
                 "owner": "volkancirik",
                 "repo": "groundnet",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1108,12 +1547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preliminary code for reviewers",
+                "homepage": null,
                 "id": 295909435,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-03-30T05:36:47Z",
+                "open_issues": 0,
                 "owner": "insomnia94",
                 "repo": "DTWREG",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1124,12 +1568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Referring expression comprehension on ReferIt(RefClef)",
+                "homepage": null,
                 "id": 75007203,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2016-11-28T23:51:19Z",
+                "open_issues": 1,
                 "owner": "ruotianluo",
                 "repo": "refexp-comprehension",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1140,12 +1589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "codes for ECCV 2016",
+                "homepage": null,
                 "id": 67358599,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-16T03:31:54Z",
+                "open_issues": 0,
                 "owner": "princeton-vl",
                 "repo": "structured-matching",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1156,12 +1610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Key-Word-Aware Network for Referring Expression Image Segmentation  (Python&Caffe), In ECCV 2018",
+                "homepage": null,
                 "id": 173299840,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-19T07:58:39Z",
+                "open_issues": 0,
                 "owner": "shihengcan",
                 "repo": "key-word-aware-network-pycaffe",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1172,12 +1631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 240909148,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-04-08T08:01:02Z",
+                "open_issues": 1,
                 "owner": "yiranyyu",
                 "repo": "Phrase-Grounding",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1195,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Hu et al. Natural Language Object Retrieval, in CVPR, 2016",
+                "homepage": "http://ronghanghu.com/text_obj_retrieval/",
                 "id": 48711759,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2016-07-31T05:55:10Z",
+                "open_issues": 3,
                 "owner": "ronghanghu",
                 "repo": "natural-language-object-retrieval",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1218,12 +1687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 97680527,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-22T02:05:59Z",
+                "open_issues": 10,
                 "owner": "StanfordVL",
                 "repo": "ReferringRelationships",
-                "stars": 258
+                "stars": 258,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1241,12 +1715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TALL: Temporal Activity Localization via Language Query",
+                "homepage": null,
                 "id": 98120888,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-15T23:32:51Z",
+                "open_issues": 10,
                 "owner": "jiyanggao",
                 "repo": "TALL",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1257,12 +1736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github for my ICCV 2017 paper: \"Localizing Moments in Video with Natural Language\"",
+                "homepage": null,
                 "id": 99381106,
                 "language": "OpenEdge ABL",
+                "license": null,
                 "last_commit": "2020-10-31T15:57:43Z",
+                "open_issues": 12,
                 "owner": "LisaAnne",
                 "repo": "LocalizingMoments",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1273,12 +1757,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Tensorflow Implementation of the AAAI-2020 paper \"Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction\"",
+                "homepage": null,
                 "id": 228151325,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T22:39:21Z",
+                "open_issues": 3,
                 "owner": "JaywongWang",
                 "repo": "CBP",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "action-localization",
+                  "video-analysis",
+                  "video-grounding",
+                  "video-moment-retrieval",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1289,12 +1784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for \"Multilevel Language and Vision Integration for Text-to-Clip Retrieval\"",
+                "homepage": null,
                 "id": 159282195,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2019-01-21T21:35:00Z",
+                "open_issues": 4,
                 "owner": "VisionLearningGroup",
                 "repo": "Text-to-Clip_Retrieval",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1305,12 +1805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 156412318,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-08T22:25:23Z",
+                "open_issues": 3,
                 "owner": "LisaAnne",
                 "repo": "TemporalLanguageRelease",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1321,12 +1826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAC: Mining Activity Concepts for Language-based Temporal Localization",
+                "homepage": null,
                 "id": 156623970,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-11-26T01:29:18Z",
+                "open_issues": 6,
                 "owner": "runzhouge",
                 "repo": "MAC",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1337,12 +1847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moments Retrieval Project Webpage (temporal) ",
+                "homepage": null,
                 "id": 216720167,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-17T06:56:29Z",
+                "open_issues": 0,
                 "owner": "escorciav",
                 "repo": "moments-retrieval-page",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1353,12 +1868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the source code of Multi-modal Circulant Fusion (MCF) for Temporal Activity Localization",
+                "homepage": null,
                 "id": 129822753,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-10T23:12:58Z",
+                "open_issues": 2,
                 "owner": "AmingWu",
                 "repo": "Multi-modal-Circulant-Fusion",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1369,12 +1889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for \"Joint Event Detection and Description in Continuous Video Streams\"",
+                "homepage": null,
                 "id": 158496340,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-11-04T19:47:46Z",
+                "open_issues": 2,
                 "owner": "VisionLearningGroup",
                 "repo": "JEDDi-Net",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1392,12 +1917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code to replicate \"Generating Visual Explanations\"",
+                "homepage": null,
                 "id": 70203940,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-01T19:31:21Z",
+                "open_issues": 7,
                 "owner": "LisaAnne",
                 "repo": "ECCV2016",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1408,12 +1938,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An image-oriented evaluation tool for image captioning systems (EMNLP-IJCNLP 2019)",
+                "homepage": null,
                 "id": 204227490,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-03T05:25:56Z",
+                "open_issues": 4,
                 "owner": "SeleenaJM",
                 "repo": "CapEval",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "computer-vision",
+                  "evaluation-metrics",
+                  "image-captioning",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1431,12 +1971,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Video Grounding and Captioning",
+                "homepage": null,
                 "id": 175714474,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-12T21:32:51Z",
+                "open_issues": 5,
                 "owner": "facebookresearch",
                 "repo": "grounded-video-description",
-                "stars": 331
+                "stars": 331,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1454,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grounded Language-Image Pre-training",
+                "homepage": null,
                 "id": 431300490,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-24T04:56:27Z",
+                "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2607
+                "stars": 2607,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1470,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for EMNLP 2019 paper \"LXMERT: Learning Cross-Modality Encoder Representations from Transformers\".",
+                "homepage": null,
                 "id": 203417155,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-22T00:05:56Z",
+                "open_issues": 54,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 965
+                "stars": 965,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1486,12 +2041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"VisualBERT: A Simple and Performant Baseline for Vision and Language\"",
+                "homepage": null,
                 "id": 202702084,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-01T20:51:04Z",
+                "open_issues": 14,
                 "owner": "uclanlp",
                 "repo": "visualbert",
-                "stars": 542
+                "stars": 542,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1502,12 +2062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 202817865,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-11-21T21:32:12Z",
+                "open_issues": 44,
                 "owner": "jiasenlu",
                 "repo": "vilbert_beta",
-                "stars": 478
+                "stars": 478,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1525,12 +2090,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2020] ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language",
+                "homepage": "https://daveredrum.github.io/ScanRefer/",
                 "id": 235654890,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-10T12:25:33Z",
+                "open_issues": 13,
                 "owner": "daveredrum",
                 "repo": "ScanRefer",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "3d",
+                  "computer-vision",
+                  "dataset",
+                  "deep-learning",
+                  "eccv",
+                  "natural-language-processing",
+                  "point-cloud",
+                  "pytorch",
+                  "visual-grounding"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1541,12 +2121,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'25] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding",
+                "homepage": "https://seeground.github.io",
                 "id": 899060565,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-21T13:47:33Z",
+                "open_issues": 1,
                 "owner": "iris0329",
                 "repo": "SeeGround",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "3d-scene-understanding",
+                  "3d-visual-grounding",
+                  "embodied-agent",
+                  "embodied-ai",
+                  "open-vocabulary",
+                  "vlm",
+                  "zero-shot"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1557,12 +2150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for ECCV 2022 paper Language-Grounded Indoor 3D Semantic Segmentation in the Wild  ",
+                "homepage": null,
                 "id": 515657423,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-03T12:19:27Z",
+                "open_issues": 4,
                 "owner": "RozDavid",
                 "repo": "LanguageGroundedSemseg",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1573,12 +2171,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring",
+                "homepage": null,
                 "id": 343624770,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-22T09:22:00Z",
+                "open_issues": 5,
                 "owner": "CurryYuan",
                 "repo": "InstanceRefer",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "iccv2021",
+                  "leaderboard",
+                  "pytorch",
+                  "scanrefer"
+                ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1596,12 +2204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ALFRED - A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+                "homepage": null,
                 "id": 227495032,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-02-05T10:08:24Z",
+                "open_issues": 23,
                 "owner": "askforalfred",
                 "repo": "alfred",
-                "stars": 529
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1619,12 +2232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset and Source code for EMNLP 2019 paper \"What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues\"",
+                "homepage": null,
                 "id": 204236500,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-10T11:12:03Z",
+                "open_issues": 0,
                 "owner": "HKUST-KnowComp",
                 "repo": "Visual_PCR",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
@@ -1635,12 +2253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source codes for EMNLP 2019 paper \"Grounding learning of modifier dynamics: An application to color naming\"",
+                "homepage": null,
                 "id": 204898397,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-01-23T08:28:46Z",
+                "open_issues": 0,
                 "owner": "HanXudong",
                 "repo": "GLoM",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             }
@@ -1654,15 +2277,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:08:08.293Z",
+    "last_updated": "2026-08-29T04:35:43.219Z",
     "original_repository_info": {
       "archived": false,
+      "description": "awesome grounding: A curated list of research papers in visual grounding",
+      "homepage": null,
       "id": 147236836,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-09-21T10:32:22Z",
+      "open_issues": 3,
       "owner": "TheShadow29",
       "repo": "awesome-grounding",
-      "stars": 1127
+      "stars": 1127,
+      "topics": [
+        "arxiv",
+        "awesome-list",
+        "captioning-images",
+        "captioning-videos",
+        "computer-vision",
+        "embodied-agent",
+        "grounding",
+        "image-grounding",
+        "language-grounding",
+        "multimodal-deep-learning",
+        "natural-language-processing",
+        "paper",
+        "paper-roadmap",
+        "papers",
+        "phrase-grounding",
+        "video-grounding",
+        "video-understanding",
+        "visual-grounding"
+      ]
     },
     "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
     "enhanced_repository": "enhansome/enhansome-grounding",
