@@ -109,7 +109,7 @@
                 "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -571,7 +571,7 @@
                 "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2130,7 +2130,7 @@
                 "open_issues": 1,
                 "owner": "iris0329",
                 "repo": "SeeGround",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "3d-scene-understanding",
                   "3d-visual-grounding",
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:44:49.415Z",
+    "last_updated": "2026-08-31T06:01:59.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

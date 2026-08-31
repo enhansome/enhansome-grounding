@@ -50,7 +50,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Image Grounding Datasets
 
-1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 576 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
+1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
 2. **RefCOCOg**: Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [\[Paper\]](https://arxiv.org/pdf/1511.02283.pdf) [\[Code\]](https://github.com/mjhucla/Google_Refexp_toolbox) ⭐ 166 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2017-03-01
 
@@ -113,7 +113,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 2. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2) ⭐ 1,127 | 🐛 3 | 📅 2025-09-21)**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [\[Paper\]](https://arxiv.org/pdf/1902.04213.pdf)
 
-3. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 576 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
+3. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
 4. Yu, Licheng, et al. **Mattnet: Modular attention network for referring expression comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. [\[Paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.pdf) [\[Code\]](https://github.com/lichengunc/MAttNet) ⭐ 299 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-29 [\[Website\]](http://vision2.cs.unc.edu/refer/comprehension)
 
@@ -378,7 +378,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [\[Paper\]](https://arxiv.org/abs/1912.08830)  [\[Code\]](https://github.com/daveredrum/ScanRefer) ⭐ 304 | 🐛 13 | 🌐 Python | 📅 2023-02-10
 
-2. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [\[Website\]](https://seeground.github.io/) [\[Paper\]](https://arxiv.org/abs/2412.04383) [\[Code\]](https://github.com/iris0329/SeeGround) ⭐ 223 | 🐛 1 | 🌐 Python | 📅 2025-04-21
+2. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [\[Website\]](https://seeground.github.io/) [\[Paper\]](https://arxiv.org/abs/2412.04383) [\[Code\]](https://github.com/iris0329/SeeGround) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2025-04-21
 
 3. Rozenberszki, David, et al. **Language-Grounded Indoor 3D Semantic Segmentation in the Wild.** European Conference on Computer Vision. Springer, Tel Aviv, 2022. [\[Website\]](https://rozdavid.github.io/scannet200) [\[Paper\]](https://arxiv.org/abs/2204.07761) [\[Code\]](https://github.com/RozDavid/LanguageGroundedSemseg) ⭐ 124 | 🐛 4 | 🌐 Python | 📅 2022-11-03
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
