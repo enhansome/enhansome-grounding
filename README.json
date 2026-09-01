@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:01:59.133Z",
+    "last_updated": "2026-09-01T05:35:24.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

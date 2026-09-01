@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,245 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,245 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,246 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,246 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
