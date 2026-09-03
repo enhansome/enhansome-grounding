@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,248 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,248 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,249 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,249 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -134,7 +134,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 12. Chen, Kan, Jiyang Gao, and Ram Nevatia. **Knowledge aided consistency for weakly supervised phrase grounding.** arXiv preprint arXiv:1803.03879 (2018). [\[Paper\]](https://arxiv.org/abs/1803.03879) [\[Code\]](https://github.com/kanchen-usc/KAC-Net) ⭐ 95 | 🐛 1 | 🌐 Python | 📅 2018-03-29
 
-13. Yang, Zhengyuan, et al. **Improving one-stage visual grounding by recursive sub-query construction.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [\[Paper\]](https://arxiv.org/pdf/2008.01059) [\[Code\]](https://github.com/zyang-ur/ReSC) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2021-09-30
+13. Yang, Zhengyuan, et al. **Improving one-stage visual grounding by recursive sub-query construction.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [\[Paper\]](https://arxiv.org/pdf/2008.01059) [\[Code\]](https://github.com/zyang-ur/ReSC) ⭐ 90 | 🐛 2 | 🌐 Python | 📅 2021-09-30
 
 14. Rohrbach, Anna, et al. **Grounding of textual phrases in images by reconstruction.** European Conference on Computer Vision. Springer, Cham, 2016. *Method Name: GroundR* [\[Paper\]](https://arxiv.org/pdf/1511.03745.pdf) [\[Tensorflow Code\]](https://github.com/kanchen-usc/GroundeR) ⭐ 85 | 🐛 2 | 🌐 Python | 📅 2018-03-29 [\[Torch Code\]](https://github.com/ruotianluo/refexp-comprehension) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2016-11-28
 
@@ -191,7 +191,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 40. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [\[Paper\]](https://arxiv.org/abs/2508.06259) [\[Code\]](https://github.com/zhangquanchen/SIFThinker) ⭐ 23 | 🐛 0 | 📅 2025-12-02
 
-41. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2020-12-20
+41. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2020-12-20
 
 42. Wang, Josiah, and Lucia Specia. **Phrase Localization Without Paired Training Examples.** arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/abs/1908.07553) [\[Code\]](https://github.com/josiahwang/phraseloceval) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2019-08-16
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
