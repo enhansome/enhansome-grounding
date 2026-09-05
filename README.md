@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,504 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,505 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2) ⭐ 1,127 | 🐛 3 | 📅 2025-09-21)**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [\[Paper\]](https://arxiv.org/pdf/1902.04213.pdf)
 
@@ -388,7 +388,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Grounding for Embodied Agents (WIP):
 
-1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [\[Paper\]](https://arxiv.org/pdf/1912.01734.pdf) [\[Code\]](https://github.com/askforalfred/alfred) ⭐ 530 | 🐛 23 | 🌐 C | 📅 2026-02-05 [\[Website\]](https://askforalfred.com/)
+1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [\[Paper\]](https://arxiv.org/pdf/1912.01734.pdf) [\[Code\]](https://github.com/askforalfred/alfred) ⭐ 531 | 🐛 23 | 🌐 C | 📅 2026-02-05 [\[Website\]](https://askforalfred.com/)
 
 ### Misc:
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
