@@ -242,6 +242,27 @@
             },
             {
               "node_type": "item",
+              "title": "Clevr-ref+: Liu, Runtao, et al. Clevr-ref+: Diagnosing visual reasoning with referring expressions. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [Paper]",
+              "description": "[Code] [Website]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+                "homepage": null,
+                "id": 163887446,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2022-01-20T00:54:41Z",
+                "open_issues": 1,
+                "owner": "ccvl",
+                "repo": "clevr-refplus-dataset-gen",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:08:08.293Z"
+            },
+            {
+              "node_type": "item",
               "title": "Cops-Ref: Chen, Zhenfang, et al. Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [Paper]",
               "description": "[Code]",
               "children": [],
@@ -257,27 +278,6 @@
                 "owner": "zfchenUnique",
                 "repo": "Cops-Ref",
                 "stars": 27,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:08:08.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Clevr-ref+: Liu, Runtao, et al. Clevr-ref+: Diagnosing visual reasoning with referring expressions. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [Paper]",
-              "description": "[Code] [Website]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
-                "homepage": null,
-                "id": 163887446,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2022-01-20T00:54:41Z",
-                "open_issues": 1,
-                "owner": "ccvl",
-                "repo": "clevr-refplus-dataset-gen",
-                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -510,7 +510,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5505,
+                "stars": 5504,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:53:41.950Z",
+    "last_updated": "2026-09-06T05:01:51.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

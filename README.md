@@ -65,9 +65,9 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 7. **Flickr30k**: Plummer, Bryan A., et al. **Flickr30k entities: Collecting region-to-phrase correspondences for richer image-to-sentence models.** Proceedings of the IEEE international conference on computer vision. 2015. [\[Paper\]](https://arxiv.org/abs/1505.04870) [\[Code\]](https://github.com/BryanPlummer/pl-clc) ⭐ 41 | 🐛 1 | 🌐 Matlab | 📅 2017-08-08 [\[Website\]](http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/)
 
-8. **Cops-Ref**: Chen, Zhenfang, et al. **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cops-Ref_A_New_Dataset_and_Task_on_Compositional_Referring_Expression_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/zfchenUnique/Cops-Ref) ⭐ 27 | 🐛 3 | 📅 2024-07-11
+8. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [\[Paper\]](https://arxiv.org/pdf/1901.00850.pdf) [\[Code\]](https://github.com/ccvl/clevr-refplus-dataset-gen) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2022-01-20 [\[Website\]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
 
-9. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [\[Paper\]](https://arxiv.org/pdf/1901.00850.pdf) [\[Code\]](https://github.com/ccvl/clevr-refplus-dataset-gen) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2022-01-20 [\[Website\]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
+9. **Cops-Ref**: Chen, Zhenfang, et al. **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cops-Ref_A_New_Dataset_and_Task_on_Compositional_Referring_Expression_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/zfchenUnique/Cops-Ref) ⭐ 27 | 🐛 3 | 📅 2024-07-11
 
 10. **KB-Ref**: Wang, Peng, et al. **Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge.** Proceedings of the 28th ACM International Conference on Multimedia. 2020. [\[Paper\]](https://arxiv.org/pdf/2006.01629) [\[Code\]](https://github.com/wangpengnorman/KB-Ref_dataset) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2020-12-28
 
@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,505 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,504 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2) ⭐ 1,127 | 🐛 3 | 📅 2025-09-21)**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [\[Paper\]](https://arxiv.org/pdf/1902.04213.pdf)
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
