@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6928,
+            "stars": 6929,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2008,7 +2008,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2606,
+                "stars": 2607,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2130,7 +2130,7 @@
                 "open_issues": 1,
                 "owner": "iris0329",
                 "repo": "SeeGround",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "3d-scene-understanding",
                   "3d-visual-grounding",
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:09:07.359Z",
+    "last_updated": "2026-09-12T04:57:13.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
