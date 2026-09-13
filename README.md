@@ -42,7 +42,7 @@ Feel free to contact me via email (<ark.sadhu2904@gmail.com>) or open an issue o
 
 Shoutout to some other awesome stuff on vision and language grounding:
 
-1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,929 | 🐛 13 | 📅 2024-08-20
+1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,930 | 🐛 13 | 📅 2024-08-20
 2. Temporal Grounding by WuJie (@WuJie1010): <https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding> ⭐ 110 | 🐛 1 | 📅 2019-11-28. Also, checkout their implementation of some of the popular papers: <https://github.com/WuJie1010/Temporally-language-grounding> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-09-21
 3. Temporal Grounding by Mu Ketong (@iworldtong): <https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video> ⭐ 82 | 🐛 0 | 📅 2019-12-16
 
@@ -79,7 +79,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. **Charades-STA**: Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
-2. **Distinct Describable Moments (DiDeMo)**: Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 199 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31 [\[Website\]](https://people.eecs.berkeley.edu/~lisa_anne/didemo.html)
+2. **Distinct Describable Moments (DiDeMo)**: Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31 [\[Website\]](https://people.eecs.berkeley.edu/~lisa_anne/didemo.html)
 
 3. **ActivityNet-Entities**: Zhou, Luowei, et al. **Grounded video description.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [\[Paper\]](https://arxiv.org/pdf/1812.06587.pdf) [\[Code\]](https://github.com/facebookresearch/ActivityNet-Entities) ⚠️ Archived
 
@@ -298,7 +298,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
-2. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 199 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
+2. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
 3. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [\[Paper\]](https://arxiv.org/pdf/1909.05010.pdf) [\[Code\]](https://github.com/JaywongWang/CBP) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2023-03-24
 
@@ -378,7 +378,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [\[Paper\]](https://arxiv.org/abs/1912.08830)  [\[Code\]](https://github.com/daveredrum/ScanRefer) ⭐ 304 | 🐛 13 | 🌐 Python | 📅 2023-02-10
 
-2. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [\[Website\]](https://seeground.github.io/) [\[Paper\]](https://arxiv.org/abs/2412.04383) [\[Code\]](https://github.com/iris0329/SeeGround) ⭐ 225 | 🐛 1 | 🌐 Python | 📅 2025-04-21
+2. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [\[Website\]](https://seeground.github.io/) [\[Paper\]](https://arxiv.org/abs/2412.04383) [\[Code\]](https://github.com/iris0329/SeeGround) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2025-04-21
 
 3. Rozenberszki, David, et al. **Language-Grounded Indoor 3D Semantic Segmentation in the Wild.** European Conference on Computer Vision. Springer, Tel Aviv, 2022. [\[Website\]](https://rozdavid.github.io/scannet200) [\[Paper\]](https://arxiv.org/abs/2204.07761) [\[Code\]](https://github.com/RozDavid/LanguageGroundedSemseg) ⭐ 124 | 🐛 4 | 🌐 Python | 📅 2022-11-03
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
