@@ -42,7 +42,7 @@ Feel free to contact me via email (<ark.sadhu2904@gmail.com>) or open an issue o
 
 Shoutout to some other awesome stuff on vision and language grounding:
 
-1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,932 | 🐛 13 | 📅 2024-08-20
+1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,933 | 🐛 13 | 📅 2024-08-20
 2. Temporal Grounding by WuJie (@WuJie1010): <https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding> ⭐ 110 | 🐛 1 | 📅 2019-11-28. Also, checkout their implementation of some of the popular papers: <https://github.com/WuJie1010/Temporally-language-grounding> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-09-21
 3. Temporal Grounding by Mu Ketong (@iworldtong): <https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video> ⭐ 82 | 🐛 0 | 📅 2019-12-16
 
@@ -57,7 +57,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 3. **Ref-Reasoning**: Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/sibeiyang/sgmn) ⭐ 117 | 🐛 10 | 🌐 Python | 📅 2020-08-10 [\[Website\]](https://sibeiyang.github.io/dataset/ref-reasoning/)
 
 4. **Talk2Car**: Deruyttere, Thierry, et al. **Talk2Car: Taking Control of Your Self-Driving Car** Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
-   [\[Paper\]](https://aclanthology.org/D19-1215/) [\[Website\]](https://talk2car.github.io/) [\[Code\]](https://github.com/talk2car/Talk2Car) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2025-09-01
+   [\[Paper\]](https://aclanthology.org/D19-1215/) [\[Website\]](https://talk2car.github.io/) [\[Code\]](https://github.com/talk2car/Talk2Car) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2025-09-01
 
 5. **GuessWhat**: De Vries, Harm, et al. **Guesswhat?! visual object discovery through multi-modal dialogue.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. [\[Paper\]](https://arxiv.org/abs/1611.08481) [\[Code\]](https://github.com/GuessWhatGame/guesswhat/) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-07-12 [\[Website\]](https://guesswhat.ai/#)
 
@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,253 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,253 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,254 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,254 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -358,7 +358,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding Pretraining
 
-1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,608 | 🐛 120 | 🌐 Python | 📅 2024-01-24
+1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,610 | 🐛 120 | 🌐 Python | 📅 2024-01-24
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 965 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
