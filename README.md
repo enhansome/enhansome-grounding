@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,254 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,254 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,256 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,256 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -358,7 +358,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding Pretraining
 
-1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,610 | 🐛 120 | 🌐 Python | 📅 2024-01-24
+1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,611 | 🐛 120 | 🌐 Python | 📅 2024-01-24
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 965 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
