@@ -172,7 +172,7 @@
                 "open_issues": 1,
                 "owner": "talk2car",
                 "repo": "Talk2Car",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:20:56.034Z",
+    "last_updated": "2026-09-21T05:23:26.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

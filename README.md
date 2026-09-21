@@ -57,7 +57,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 3. **Ref-Reasoning**: Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/sibeiyang/sgmn) ⭐ 117 | 🐛 10 | 🌐 Python | 📅 2020-08-10 [\[Website\]](https://sibeiyang.github.io/dataset/ref-reasoning/)
 
 4. **Talk2Car**: Deruyttere, Thierry, et al. **Talk2Car: Taking Control of Your Self-Driving Car** Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
-   [\[Paper\]](https://aclanthology.org/D19-1215/) [\[Website\]](https://talk2car.github.io/) [\[Code\]](https://github.com/talk2car/Talk2Car) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2025-09-01
+   [\[Paper\]](https://aclanthology.org/D19-1215/) [\[Website\]](https://talk2car.github.io/) [\[Code\]](https://github.com/talk2car/Talk2Car) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2025-09-01
 
 5. **GuessWhat**: De Vries, Harm, et al. **Guesswhat?! visual object discovery through multi-modal dialogue.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. [\[Paper\]](https://arxiv.org/abs/1611.08481) [\[Code\]](https://github.com/GuessWhatGame/guesswhat/) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-07-12 [\[Website\]](https://guesswhat.ai/#)
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
