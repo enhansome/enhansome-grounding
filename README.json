@@ -2029,7 +2029,7 @@
                 "open_issues": 55,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 965,
+                "stars": 966,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:23:26.395Z",
+    "last_updated": "2026-09-22T05:19:15.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
