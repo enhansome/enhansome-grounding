@@ -57,7 +57,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 3. **Ref-Reasoning**: Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/sibeiyang/sgmn) ⭐ 117 | 🐛 10 | 🌐 Python | 📅 2020-08-10 [\[Website\]](https://sibeiyang.github.io/dataset/ref-reasoning/)
 
 4. **Talk2Car**: Deruyttere, Thierry, et al. **Talk2Car: Taking Control of Your Self-Driving Car** Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
-   [\[Paper\]](https://aclanthology.org/D19-1215/) [\[Website\]](https://talk2car.github.io/) [\[Code\]](https://github.com/talk2car/Talk2Car) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2025-09-01
+   [\[Paper\]](https://aclanthology.org/D19-1215/) [\[Website\]](https://talk2car.github.io/) [\[Code\]](https://github.com/talk2car/Talk2Car) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2025-09-01
 
 5. **GuessWhat**: De Vries, Harm, et al. **Guesswhat?! visual object discovery through multi-modal dialogue.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. [\[Paper\]](https://arxiv.org/abs/1611.08481) [\[Code\]](https://github.com/GuessWhatGame/guesswhat/) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2022-07-12 [\[Website\]](https://guesswhat.ai/#)
 
@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,504 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,598 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,504 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,597 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2) ⭐ 1,127 | 🐛 3 | 📅 2025-09-21)**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [\[Paper\]](https://arxiv.org/pdf/1902.04213.pdf)
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
