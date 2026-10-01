@@ -510,7 +510,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5505,
+                "stars": 5506,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2213,7 +2213,7 @@
                 "open_issues": 23,
                 "owner": "askforalfred",
                 "repo": "alfred",
-                "stars": 533,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2277,7 +2277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:54:29.987Z",
+    "last_updated": "2026-10-01T06:28:26.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
