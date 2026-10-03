@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Multi-modal Reading List by Paul Liang (@pliang279) : https://github.com/pliang279/awesome-multimodal-ml/",
-          "description": null,
+          "description": "pliang279/awesome-multimodal-ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -67,7 +67,7 @@
         {
           "node_type": "item",
           "title": "Temporal Grounding by Mu Ketong (@iworldtong): https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video",
-          "description": null,
+          "description": "iworldtong/Awesome-Temporal-Sentence-Grounding-in-Videos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
             {
               "node_type": "item",
               "title": "RefCOCO and RefCOCO+: 1. Yu, Licheng, et al. Modeling context in referring expressions. European Conference on Computer Vision. Springer, Cham, 2016. [Paper]",
-              "description": "[Code]",
+              "description": "lichengunc/refer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "RefCOCOg: Mao, Junhua, et al. Generation and comprehension of unambiguous object descriptions. Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [Paper]",
-              "description": "[Code]",
+              "description": "mjhucla/Google_Refexp_toolbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -264,7 +264,7 @@
             {
               "node_type": "item",
               "title": "Cops-Ref: Chen, Zhenfang, et al. Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [Paper]",
-              "description": "[Code]",
+              "description": "zfchenUnique/Cops-Ref",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -285,7 +285,7 @@
             {
               "node_type": "item",
               "title": "KB-Ref: Wang, Peng, et al. Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge. Proceedings of the 28th ACM International Conference on Multimedia. 2020. [Paper]",
-              "description": "[Code]",
+              "description": "wangpengnorman/KB-Ref_dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,7 +313,7 @@
             {
               "node_type": "item",
               "title": "Charades-STA: Gao, Jiyang, et al. Tall: Temporal activity localization via language query. arXiv preprint arXiv:1705.02101 (2017).[Paper]",
-              "description": "[Code]",
+              "description": "jiyanggao/TALL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -355,7 +355,7 @@
             {
               "node_type": "item",
               "title": "ActivityNet-Entities: Zhou, Luowei, et al. Grounded video description. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [Paper]",
-              "description": "[Code]",
+              "description": "facebookresearch/ActivityNet-Entities",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -402,7 +402,7 @@
                 {
                   "node_type": "item",
                   "title": "Sigurdsson, Gunnar A., et al. \"Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos.\" arXiv preprint arXiv:1804.09626 (2018). [Paper]",
-                  "description": "[Code]",
+                  "description": "gsig/charades-algorithms",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -430,7 +430,7 @@
                 {
                   "node_type": "item",
                   "title": "Sigurdsson, Gunnar, et al. Actor and Observer: Joint Modeling of First and Third-Person Videos. CVPR-IEEE Conference on Computer Vision & Pattern Recognition. 2018. [Paper]",
-                  "description": "[Code]",
+                  "description": "gsig/actor-observer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -510,55 +510,15 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5506,
+                "stars": 5507,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
             },
             {
               "node_type": "item",
-              "title": "RETRACTED (see #2)",
-              "description": "Deng, Chaorui, et al. You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding. arXiv preprint arXiv:1902.04213 (2019). [Paper]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "awesome grounding: A curated list of research papers in visual grounding",
-                "homepage": null,
-                "id": 147236836,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2025-09-21T10:32:22Z",
-                "open_issues": 3,
-                "owner": "TheShadow29",
-                "repo": "awesome-grounding",
-                "stars": 1128,
-                "topics": [
-                  "arxiv",
-                  "awesome-list",
-                  "captioning-images",
-                  "captioning-videos",
-                  "computer-vision",
-                  "embodied-agent",
-                  "grounding",
-                  "image-grounding",
-                  "language-grounding",
-                  "multimodal-deep-learning",
-                  "natural-language-processing",
-                  "paper",
-                  "paper-roadmap",
-                  "papers",
-                  "phrase-grounding",
-                  "video-grounding",
-                  "video-understanding",
-                  "visual-grounding"
-                ]
-              },
-              "first_seen": "2026-08-28T12:08:08.293Z"
-            },
-            {
-              "node_type": "item",
               "title": "Yu, Licheng, et al. Modeling context in referring expressions. European Conference on Computer Vision. Springer, Cham, 2016. [Paper]",
-              "description": "[Code]",
+              "description": "lichengunc/refer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,7 +560,7 @@
             {
               "node_type": "item",
               "title": "Fukui, Akira et al. Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding. EMNLP (2016). Method name: MCB [Paper]",
-              "description": "[Code]",
+              "description": "akirafukui/vqa-mcb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +581,7 @@
             {
               "node_type": "item",
               "title": "Mao, Junhua, et al. Generation and comprehension of unambiguous object descriptions. Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [Paper]",
-              "description": "[Code]",
+              "description": "mjhucla/Google_Refexp_toolbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,7 +602,7 @@
             {
               "node_type": "item",
               "title": "Yang, Zhengyuan, et al. A Fast and Accurate One-Stage Approach to Visual Grounding. arXiv preprint arXiv:1908.06354 (2019). (ICCV 2019) [Paper]",
-              "description": "[Code]",
+              "description": "zyang-ur/onestage_grounding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +623,7 @@
             {
               "node_type": "item",
               "title": "Luo, Gen, et al. Multi-task collaborative network for joint referring expression comprehension and segmentation. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [Paper]",
-              "description": "[Code]",
+              "description": "luogen1996/MCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +649,7 @@
             {
               "node_type": "item",
               "title": "Yang, Sibei, Guanbin Li, and Yizhou Yu. Dynamic Graph Attention for Referring Expression Comprehension. arXiv preprint arXiv:1909.08164 (2019). (ICCV 2019) [Paper]",
-              "description": "[Code]",
+              "description": "sibeiyang/sgmn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -710,7 +670,7 @@
             {
               "node_type": "item",
               "title": "Yang, Sibei, Guanbin Li, and Yizhou Yu. Graph-structured referring expression reasoning in the wild. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [Paper]",
-              "description": "[Code]",
+              "description": "sibeiyang/sgmn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,7 +712,7 @@
             {
               "node_type": "item",
               "title": "Chen, Kan, Jiyang Gao, and Ram Nevatia. Knowledge aided consistency for weakly supervised phrase grounding. arXiv preprint arXiv:1803.03879 (2018). [Paper]",
-              "description": "[Code]",
+              "description": "kanchen-usc/KAC-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -777,7 +737,7 @@
             {
               "node_type": "item",
               "title": "Yang, Zhengyuan, et al. Improving one-stage visual grounding by recursive sub-query construction. Proceedings of the European Conference on Computer Vision (ECCV). 2020. [Paper]",
-              "description": "[Code]",
+              "description": "zyang-ur/ReSC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -844,7 +804,7 @@
             {
               "node_type": "item",
               "title": "Wang, Liwei, Yin Li, and Svetlana Lazebnik. Learning deep structure-preserving image-text embeddings. Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [Paper]",
-              "description": "[Code]",
+              "description": "lwwang/Two_branch_network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -865,7 +825,7 @@
             {
               "node_type": "item",
               "title": "Margffoy-Tuay, Edgar, et al. Dynamic multimodal instance segmentation guided by natural language queries. Proceedings of the European Conference on Computer Vision (ECCV). 2018. [Paper]",
-              "description": "[Code]",
+              "description": "BCV-Uniandes/DMS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -892,7 +852,7 @@
             {
               "node_type": "item",
               "title": "Gupta, Tanmay, et al. Contrastive learning for weakly supervised phrase grounding. Proceedings of the European Conference on Computer Vision (ECCV). 2020. [Paper]",
-              "description": "[Code]",
+              "description": "BigRedT/info-ground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -939,7 +899,7 @@
             {
               "node_type": "item",
               "title": "Chen, Kan, Rama Kovvuri, and Ram Nevatia. Query-guided regression network with context policy for phrase grounding. Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. Method name: QRC [Paper]",
-              "description": "[Code]",
+              "description": "kanchen-usc/QRC-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -964,7 +924,7 @@
             {
               "node_type": "item",
               "title": "Hu, Ronghang, et al. Modeling relationships in referential expressions with compositional modular networks. Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017. [Paper]",
-              "description": "[Code]",
+              "description": "ronghanghu/cmn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,7 +945,7 @@
             {
               "node_type": "item",
               "title": "Liu, Yongfei, Wan Bo, Zhu Xiaodan and He Xuming. Learning Cross-modal Context Graph for Visual Grounding. arXiv preprint arXiv: (2019) (AAAI-2020). [Paper]",
-              "description": "[Code]",
+              "description": "youngfly11/LCMCG-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1081,7 +1041,7 @@
             {
               "node_type": "item",
               "title": "Wang, Qinxin, et al. MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding. arXiv preprint arXiv:2010.05379 (2020). [Paper]",
-              "description": "[Code]",
+              "description": "qinzzz/Multimodal-Alignment-Framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1106,7 +1066,7 @@
             {
               "node_type": "item",
               "title": "Liu, Haolin, et al. Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [Paper]",
-              "description": "[Code]",
+              "description": "HaolinLiu97/Refer-it-in-RGBD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "Plummer, Bryan A., et al. Phrase localization and visual relationship detection with comprehensive image-language cues. Proc. ICCV. 2017. [Paper]",
-              "description": "[Code]",
+              "description": "BryanPlummer/pl-clc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1148,7 +1108,7 @@
             {
               "node_type": "item",
               "title": "Plummer, Bryan A., et al. Conditional image-text embedding networks. Proceedings of the European Conference on Computer Vision (ECCV). 2018. [Paper]",
-              "description": "[Code]",
+              "description": "BryanPlummer/cite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +1129,7 @@
             {
               "node_type": "item",
               "title": "Liu, Chenxi, et al. Recurrent Multimodal Interaction for Referring Image Segmentation. ICCV. 2017. [Paper]",
-              "description": "[Code]",
+              "description": "chenxi116/TF-phrasecut-public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1190,7 +1150,7 @@
             {
               "node_type": "item",
               "title": "Liu, Daqing, et al. Learning to Assemble Neural Module Tree Networks for Visual Grounding. Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2019. [Paper]",
-              "description": "[Code]",
+              "description": "daqingliu/NMTree",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1211,7 +1171,7 @@
             {
               "node_type": "item",
               "title": "Nagaraja, Varun K., Vlad I. Morariu, and Larry S. Davis. Modeling context between objects for referring expression understanding. European Conference on Computer Vision. Springer, Cham, 2016.[Paper]",
-              "description": "[Code]",
+              "description": "varun-nagaraja/referring-expressions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1253,7 +1213,7 @@
             {
               "node_type": "item",
               "title": "Liu, Xuejing, et al. Adaptive Reconstruction Network for Weakly Supervised Referring Expression Grounding. arXiv preprint arXiv:1908.10568 (2019). (ICCV 2019) [Paper]",
-              "description": "[Code]",
+              "description": "GingL/ARN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1274,7 +1234,7 @@
             {
               "node_type": "item",
               "title": "Li, Ruiyu, et al. Referring image segmentation via recurrent refinement networks. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[Paper]",
-              "description": "[Code]",
+              "description": "liruiyu/referseg_rrn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1295,7 +1255,7 @@
             {
               "node_type": "item",
               "title": "Chen, Yi-Wen, et al. Referring Expression Object Segmentation with Caption-Aware Consistency. arXiv preprint arXiv:1910.04748 (2019). (BMVC 2019) [Paper]",
-              "description": "[Code]",
+              "description": "wenz116/lang2seg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1324,7 +1284,7 @@
             {
               "node_type": "item",
               "title": "Zhang, Hanwang, Yulei Niu, and Shih-Fu Chang. Grounding referring expressions in images by variational context. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [Paper]",
-              "description": "[Code]",
+              "description": "yuleiniu/vc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1349,7 +1309,7 @@
             {
               "node_type": "item",
               "title": "Liu, Yongfei, et al. Relation-aware Instance Refinement for Weakly Supervised Visual Grounding. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [Paper]",
-              "description": "[Code]",
+              "description": "youngfly11/ReIR-WeaklyGrounding.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1370,7 +1330,7 @@
             {
               "node_type": "item",
               "title": "Yu, Zhou, et al. Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding. arXiv preprint arXiv:1805.03508 (2018). [Paper]",
-              "description": "[Code]",
+              "description": "XiangChenchao/DDPN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,7 +1356,7 @@
             {
               "node_type": "item",
               "title": "Chen, Zhangquan, et al. SIFThinker: Spatially-Aware Image Focus for Visual Reasoning. arXiv preprint arXiv:2508.06259. [Paper]",
-              "description": "[Code]",
+              "description": "zhangquanchen/SIFThinker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1417,7 +1377,7 @@
             {
               "node_type": "item",
               "title": "Chen, Long, et al. Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding. arXiv preprint arXiv:2009.01449 (AAAI-2021). [Paper]",
-              "description": "[Code]",
+              "description": "ChopinSharp/ref-nms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1438,7 +1398,7 @@
             {
               "node_type": "item",
               "title": "Wang, Josiah, and Lucia Specia. Phrase Localization Without Paired Training Examples. arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [Paper]",
-              "description": "[Code]",
+              "description": "josiahwang/phraseloceval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1459,7 +1419,7 @@
             {
               "node_type": "item",
               "title": "Hu, Zhiwei, et al. Bi-directional relationship inferring network for referring image segmentation. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [Paper]",
-              "description": "[Code]",
+              "description": "fengguang94/BRINet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1480,7 +1440,7 @@
             {
               "node_type": "item",
               "title": "Liu, Jiacheng, and Julia Hockenmaier. Phrase Grounding by Soft-Label Chain Conditional Random Field. arXiv preprint arXiv:1909.00301 (2019) (EMNLP 2019). [Paper]",
-              "description": "[Code]",
+              "description": "liujch1998/SoftLabelCCRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1501,7 +1461,7 @@
             {
               "node_type": "item",
               "title": "Sun, Mingjie, Jimin Xiao, and Eng Gee Lim. Iterative Shrinking for Referring Expression Grounding Using Deep Reinforcement Learning. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [Paper]",
-              "description": "[Code]",
+              "description": "insomnia94/ISREG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,7 +1482,7 @@
             {
               "node_type": "item",
               "title": "Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. Using syntax to ground referring expressions in natural images. arXiv preprint arXiv:1805.10547 (2018).[Paper]",
-              "description": "[Code]",
+              "description": "volkancirik/groundnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1543,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "Sun, Mingjie, et al. Discriminative triad matching and reconstruction for weakly referring expression grounding. IEEE transactions on pattern analysis and machine intelligence (TPAMI 2021). [Paper]",
-              "description": "[Code]",
+              "description": "insomnia94/DTWREG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1564,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "Luo, Ruotian, and Gregory Shakhnarovich. Comprehension-guided referring expressions. Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017. [Paper]",
-              "description": "[Code]",
+              "description": "ruotianluo/refexp-comprehension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1585,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "Wang, Mingzhe, et al. Structured matching for phrase localization. European Conference on Computer Vision. Springer, Cham, 2016. Method name: Structured Matching [Paper]",
-              "description": "[Code]",
+              "description": "princeton-vl/structured-matching",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1606,7 +1566,7 @@
             {
               "node_type": "item",
               "title": "Shi, Hengcan, et al. Key-word-aware network for referring expression image segmentation. Proceedings of the European Conference on Computer Vision (ECCV). 2018.[Paper]",
-              "description": "[Code]",
+              "description": "shihengcan/key-word-aware-network-pycaffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1627,7 +1587,7 @@
             {
               "node_type": "item",
               "title": "Yu, Tianyu, et al. Cross-Modal Omni Interaction Modeling for Phrase Grounding. Proceedings of the 28th ACM International Conference on Multimedia. ACM 2020. [Paper: ACM Link]",
-              "description": "[Code]",
+              "description": "yiranyyu/Phrase-Grounding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1711,7 +1671,7 @@
             {
               "node_type": "item",
               "title": "Gao, Jiyang, et al. Tall: Temporal activity localization via language query. arXiv preprint arXiv:1705.02101 (2017). Method name: TALL [Paper]",
-              "description": "[Code]",
+              "description": "jiyanggao/TALL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1732,7 +1692,7 @@
             {
               "node_type": "item",
               "title": "Hendricks, Lisa Anne, et al. Localizing moments in video with natural language. Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. Method name: MCN [Paper]",
-              "description": "[Code]",
+              "description": "LisaAnne/LocalizingMoments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,7 +1713,7 @@
             {
               "node_type": "item",
               "title": "Wang, Jingwen, Lin Ma, and Wenhao Jiang. Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction. arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [Paper]",
-              "description": "[Code]",
+              "description": "JaywongWang/CBP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1780,7 +1740,7 @@
             {
               "node_type": "item",
               "title": "Xu, Huijuan, et al. Text-to-Clip Video Retrieval with Early Fusion and Re-Captioning. arXiv preprint arXiv:1804.05113 (2018). [Paper]",
-              "description": "[Code]",
+              "description": "VisionLearningGroup/Text-to-Clip_Retrieval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1822,7 +1782,7 @@
             {
               "node_type": "item",
               "title": "Ge, Runzhou, et al. MAC: Mining Actiivity Concepts for Language-based Temporal Localization. arXiv preprint arXiv:1811.08925 (2018). [Paper]",
-              "description": "[Code]",
+              "description": "runzhouge/MAC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1843,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "Escorcia, Victor, et al. Temporal Localization of Moments in Video Collections with Natural Language. arXiv preprint arXiv:1907.12763 (2019). (ICCV 2019) [Paper]",
-              "description": "[Code]",
+              "description": "escorciav/moments-retrieval-page",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1864,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "Wu, Aming, and Yahong Han. Multi-modal Circulant Fusion for Video-to-Language and Backward. IJCAI. Vol. 3. No. 4. 2018. [Paper]",
-              "description": "[Code]",
+              "description": "AmingWu/Multi-modal-Circulant-Fusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1885,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "Xu, Huijuan, et al. Joint Event Detection and Description in Continuous Video Streams. arXiv preprint arXiv:1802.10250 (2018). [Paper]",
-              "description": "[Code]",
+              "description": "VisionLearningGroup/JEDDi-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1934,7 +1894,7 @@
             {
               "node_type": "item",
               "title": "Jiang, Ming, et al. TIGEr: Text-to-Image Grounding for Image Caption Evaluation. arXiv preprint arXiv:1909.02050 (2019). (EMNLP 2019) [Paper]",
-              "description": "[Code]",
+              "description": "SeleenaJM/CapEval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1967,7 +1927,7 @@
             {
               "node_type": "item",
               "title": "Zhou, Luowei, et al. Grounded video description. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [Paper]",
-              "description": "[Code]",
+              "description": "facebookresearch/grounded-video-description",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1995,7 +1955,7 @@
             {
               "node_type": "item",
               "title": "Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. Grounded language-image pre-training. arXiv preprint arXiv:2112.03857 (2021). [Paper]",
-              "description": "[Code]",
+              "description": "microsoft/GLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2016,7 +1976,7 @@
             {
               "node_type": "item",
               "title": "Tan, Hao, and Mohit Bansal. Lxmert: Learning cross-modality encoder representations from transformers. arXiv preprint arXiv:1908.07490 (2019). [Paper]",
-              "description": "[Code]",
+              "description": "airsplay/lxmert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2037,7 +1997,7 @@
             {
               "node_type": "item",
               "title": "Li, Liunian Harold, et al. VisualBERT: A Simple and Performant Baseline for Vision and Language. arXiv preprint arXiv:1908.03557 (2019). [Paper]",
-              "description": "[Code]",
+              "description": "uclanlp/visualbert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2018,7 @@
             {
               "node_type": "item",
               "title": "Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks. arXiv preprint arXiv:1908.02265 (Neurips 2019) [Paper]",
-              "description": "[Code]",
+              "description": "jiasenlu/vilbert_beta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2086,7 +2046,7 @@
             {
               "node_type": "item",
               "title": "Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. Scanrefer: 3d object localization in rgb-d scans using natural language. Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [Paper]",
-              "description": "[Code]",
+              "description": "daveredrum/ScanRefer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2167,7 +2127,7 @@
             {
               "node_type": "item",
               "title": "Yuan, Zhihao, et al. Instancerefer: Cooperative holistic understanding for visual grounding on point clouds through instance multi-level contextual referring. arXiv preprint arXiv:2103.01128 (2021). [Paper]",
-              "description": "[Code]",
+              "description": "CurryYuan/InstanceRefer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2228,7 +2188,7 @@
             {
               "node_type": "item",
               "title": "Yu, Xintong, et al. What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues. arXiv preprint arXiv:1909.00421 (2019). (EMNLP 2019) [Paper]",
-              "description": "[Code]",
+              "description": "HKUST-KnowComp/Visual_PCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2249,7 +2209,7 @@
             {
               "node_type": "item",
               "title": "Han, Xudong, Philip Schulz, and Trevor Cohn. Grounding learning of modifier dynamics: An application to color naming. arXiv preprint arXiv:1909.07586 (2019). (EMNLP 2019) [Paper]",
-              "description": "[Code]",
+              "description": "HanXudong/GLoM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2277,7 +2237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:06:30.672Z",
+    "last_updated": "2026-10-03T04:46:48.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
