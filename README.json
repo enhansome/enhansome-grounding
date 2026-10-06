@@ -1968,7 +1968,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2612,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2090,7 +2090,7 @@
                 "open_issues": 1,
                 "owner": "iris0329",
                 "repo": "SeeGround",
-                "stars": 226,
+                "stars": 224,
                 "topics": [
                   "3d-scene-understanding",
                   "3d-visual-grounding",
@@ -2237,7 +2237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:09:08.698Z",
+    "last_updated": "2026-10-06T06:48:30.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
