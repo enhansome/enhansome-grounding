@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,507 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,598 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,507 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,599 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
@@ -362,7 +362,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 966 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
-3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
+3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 543 | 🐛 14 | 🌐 Python | 📅 2023-05-01
 
 4. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 (Neurips 2019) [\[Paper\]](https://arxiv.org/pdf/1908.02265.pdf) [\[Code\]](https://github.com/jiasenlu/vilbert_beta) ⭐ 478 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2022-11-21
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

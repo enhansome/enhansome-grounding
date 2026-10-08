@@ -2010,7 +2010,7 @@
                 "open_issues": 14,
                 "owner": "uclanlp",
                 "repo": "visualbert",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2237,7 +2237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:23:39.066Z",
+    "last_updated": "2026-10-08T06:35:35.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
