@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,260 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,260 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,261 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,261 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -376,7 +376,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding in 3D
 
-1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [\[Paper\]](https://arxiv.org/abs/1912.08830)  [\[Code\]](https://github.com/daveredrum/ScanRefer) ⭐ 304 | 🐛 13 | 🌐 Python | 📅 2023-02-10
+1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [\[Paper\]](https://arxiv.org/abs/1912.08830)  [\[Code\]](https://github.com/daveredrum/ScanRefer) ⭐ 305 | 🐛 13 | 🌐 Python | 📅 2023-02-10
 
 2. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [\[Website\]](https://seeground.github.io/) [\[Paper\]](https://arxiv.org/abs/2412.04383) [\[Code\]](https://github.com/iris0329/SeeGround) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2025-04-21
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
