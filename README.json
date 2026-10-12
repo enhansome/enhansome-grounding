@@ -16,7 +16,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-08-20T19:46:33Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
             "stars": 6943,
@@ -2237,7 +2237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:21:42.696Z",
+    "last_updated": "2026-10-12T06:26:56.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
