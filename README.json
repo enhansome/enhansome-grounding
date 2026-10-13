@@ -1968,7 +1968,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2610,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2237,7 +2237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:26:56.632Z",
+    "last_updated": "2026-10-13T07:02:36.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
