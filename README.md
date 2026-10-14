@@ -42,7 +42,7 @@ Feel free to contact me via email (<ark.sadhu2904@gmail.com>) or open an issue o
 
 Shoutout to some other awesome stuff on vision and language grounding:
 
-1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,943 | 🐛 14 | 📅 2024-08-20
+1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,945 | 🐛 14 | 📅 2024-08-20
 2. Temporal Grounding by WuJie (@WuJie1010): <https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding> ⭐ 110 | 🐛 1 | 📅 2019-11-28. Also, checkout their implementation of some of the popular papers: <https://github.com/WuJie1010/Temporally-language-grounding> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-09-21
 3. Temporal Grounding by Mu Ketong (@iworldtong): <https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video> ⭐ 82 | 🐛 0 | 📅 2019-12-16
 
@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,507 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,599 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,507 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,600 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
@@ -398,4 +398,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
