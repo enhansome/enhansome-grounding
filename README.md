@@ -42,7 +42,7 @@ Feel free to contact me via email (<ark.sadhu2904@gmail.com>) or open an issue o
 
 Shoutout to some other awesome stuff on vision and language grounding:
 
-1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,946 | 🐛 15 | 📅 2024-08-20
+1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,947 | 🐛 15 | 📅 2024-08-20
 2. Temporal Grounding by WuJie (@WuJie1010): <https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding> ⭐ 110 | 🐛 2 | 📅 2019-11-28. Also, checkout their implementation of some of the popular papers: <https://github.com/WuJie1010/Temporally-language-grounding> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-09-21
 3. Temporal Grounding by Mu Ketong (@iworldtong): <https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video> ⭐ 82 | 🐛 0 | 📅 2019-12-16
 
@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,507 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,600 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,508 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,600 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
@@ -296,51 +296,57 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Video Grounding (Activity Localization) using Natural Language:
 
-1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
+1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [\[Paper\]](https://arxiv.org/abs/2607.14935) [\[Code\]](https://github.com/MCG-NJU/VideoChat3) ⭐ 350 | 🐛 3 | 🌐 Python | 📅 2026-10-02
 
-2. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
+2. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
-3. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [\[Paper\]](https://arxiv.org/pdf/1909.05010.pdf) [\[Code\]](https://github.com/JaywongWang/CBP) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2023-03-24
+3. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
-4. Xu, Huijuan, et al. **Text-to-Clip Video Retrieval with Early Fusion and Re-Captioning.** arXiv preprint arXiv:1804.05113 (2018). [\[Paper\]](https://arxiv.org/pdf/1804.05113.pdf) [\[Code\]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval) ⭐ 49 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-01-21
+4. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 158 | 🐛 2 | 🌐 Python | 📅 2026-10-16
 
-5. Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [\[Paper\]](https://arxiv.org/pdf/1809.01337.pdf) [\[Code\]](https://github.com/LisaAnne/TemporalLanguageRelease) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2021-03-08 [\[Website\]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
+5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
-6. Ge, Runzhou, et al. **MAC: Mining Actiivity Concepts for Language-based Temporal Localization.** arXiv preprint arXiv:1811.08925 (2018). [\[Paper\]](https://arxiv.org/pdf/1811.08925.pdf) [\[Code\]](https://github.com/runzhouge/MAC) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2018-11-26
+6. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [\[Paper\]](https://arxiv.org/pdf/1909.05010.pdf) [\[Code\]](https://github.com/JaywongWang/CBP) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2023-03-24
 
-7. Escorcia, Victor, et al. **Temporal Localization of Moments in Video Collections with Natural Language.** arXiv preprint arXiv:1907.12763 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/pdf/1907.12763.pdf) [\[Code\]](https://github.com/escorciav/moments-retrieval-page) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2024-01-17
+7. Xu, Huijuan, et al. **Text-to-Clip Video Retrieval with Early Fusion and Re-Captioning.** arXiv preprint arXiv:1804.05113 (2018). [\[Paper\]](https://arxiv.org/pdf/1804.05113.pdf) [\[Code\]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval) ⭐ 49 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-01-21
 
-8. Wu, Aming, and Yahong Han. **Multi-modal Circulant Fusion for Video-to-Language and Backward.** IJCAI. Vol. 3. No. 4. 2018. [\[Paper\]](https://www.ijcai.org/Proceedings/2018/0143.pdf) [\[Code\]](https://github.com/AmingWu/Multi-modal-Circulant-Fusion) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2019-03-10
+8. Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [\[Paper\]](https://arxiv.org/pdf/1809.01337.pdf) [\[Code\]](https://github.com/LisaAnne/TemporalLanguageRelease) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2021-03-08 [\[Website\]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
 
-9. Xu, Huijuan, et al. **Joint Event Detection and Description in Continuous Video Streams.** arXiv preprint arXiv:1802.10250 (2018). [\[Paper\]](https://arxiv.org/pdf/1802.10250.pdf) [\[Code\]](https://github.com/VisionLearningGroup/JEDDi-Net) ⭐ 23 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-11-04
+9. Ge, Runzhou, et al. **MAC: Mining Actiivity Concepts for Language-based Temporal Localization.** arXiv preprint arXiv:1811.08925 (2018). [\[Paper\]](https://arxiv.org/pdf/1811.08925.pdf) [\[Code\]](https://github.com/runzhouge/MAC) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2018-11-26
 
-10. Yu, Haonan, et al. **Grounded Language Learning from Video Described with Sentences** Proceedings of the Annual Meeting of the Association for Computational Linguistics. 2013. [\[Paper\]](https://www.aclweb.org/anthology/P13-1006)
+10. Escorcia, Victor, et al. **Temporal Localization of Moments in Video Collections with Natural Language.** arXiv preprint arXiv:1907.12763 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/pdf/1907.12763.pdf) [\[Code\]](https://github.com/escorciav/moments-retrieval-page) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2024-01-17
 
-11. Xu, Ran, et al. **Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework.** Proceedings of the AAAI Conference on Artificial Intelligence. 2015. [\[Paper\]](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf)
+11. Wu, Aming, and Yahong Han. **Multi-modal Circulant Fusion for Video-to-Language and Backward.** IJCAI. Vol. 3. No. 4. 2018. [\[Paper\]](https://www.ijcai.org/Proceedings/2018/0143.pdf) [\[Code\]](https://github.com/AmingWu/Multi-modal-Circulant-Fusion) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2019-03-10
 
-12. Song, Young Chol, et al. **Unsupervised Alignment of Actions in Video with Text Descriptions** Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI). 2016. [\[Paper\]](https://www.ijcai.org/Proceedings/16/Papers/289.pdf)
+12. Xu, Huijuan, et al. **Joint Event Detection and Description in Continuous Video Streams.** arXiv preprint arXiv:1802.10250 (2018). [\[Paper\]](https://arxiv.org/pdf/1802.10250.pdf) [\[Code\]](https://github.com/VisionLearningGroup/JEDDi-Net) ⭐ 23 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-11-04
 
-13. Khoreva, Anna, Anna Rohrbach, and Bernt Schiele. **Video Object Segmentation with Language Referring Expressions.** arXiv preprint arXiv:1803.08006 (2018). [\[Paper\]](https://arxiv.org/pdf/1803.08006.pdf) [\[Website\]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/video-segmentation/video-object-segmentation-with-language-referring-expressions/)
+13. Yu, Haonan, et al. **Grounded Language Learning from Video Described with Sentences** Proceedings of the Annual Meeting of the Association for Computational Linguistics. 2013. [\[Paper\]](https://www.aclweb.org/anthology/P13-1006)
 
-14. Liu, Bingbin, et al. **Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos.** European Conference on Computer Vision. Springer, Cham, 2018. [\[Paper\]](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf) [\[Website\]](https://clarabing.github.io/tmn/)
+14. Xu, Ran, et al. **Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework.** Proceedings of the AAAI Conference on Artificial Intelligence. 2015. [\[Paper\]](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf)
 
-15. Liu, Meng, et al. **Attentive Moment Retrieval in Videos.** Proceedings of the International ACM SIGIR Conference . 2018. [\[Paper\]](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-video-retrieval.pdf) [\[Website\]](https://sigir2018.wixsite.com/acrn)
+15. Song, Young Chol, et al. **Unsupervised Alignment of Actions in Video with Text Descriptions** Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI). 2016. [\[Paper\]](https://www.ijcai.org/Proceedings/16/Papers/289.pdf)
 
-16. Chen, Jingyuan, et al. **Temporally grounding natural sentence in video.** Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [\[Paper\]](https://pdfs.semanticscholar.org/452a/ca244ef62a533d8b46a54c6212fe9fa3ce9a.pdf)
+16. Khoreva, Anna, Anna Rohrbach, and Bernt Schiele. **Video Object Segmentation with Language Referring Expressions.** arXiv preprint arXiv:1803.08006 (2018). [\[Paper\]](https://arxiv.org/pdf/1803.08006.pdf) [\[Website\]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/video-segmentation/video-object-segmentation-with-language-referring-expressions/)
 
-17. Zhang, Da, et al. **MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.** arXiv preprint arXiv:1812.00087 (2018). [\[Paper\]](https://arxiv.org/pdf/1812.00087.pdf)
+17. Liu, Bingbin, et al. **Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos.** European Conference on Computer Vision. Springer, Cham, 2018. [\[Paper\]](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf) [\[Website\]](https://clarabing.github.io/tmn/)
 
-18. He, Dongliang, et al. **Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019. [\[Paper\]](https://arxiv.org/pdf/1901.06829.pdf)
+18. Liu, Meng, et al. **Attentive Moment Retrieval in Videos.** Proceedings of the International ACM SIGIR Conference . 2018. [\[Paper\]](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-video-retrieval.pdf) [\[Website\]](https://sigir2018.wixsite.com/acrn)
 
-19. Wang, Weining, Yan Huang, and Liang Wang. **Language-Driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Language-Driven_Temporal_Activity_Localization_A_Semantic_Matching_Reinforcement_Learning_Model_CVPR_2019_paper.pdf)
+19. Chen, Jingyuan, et al. **Temporally grounding natural sentence in video.** Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [\[Paper\]](https://pdfs.semanticscholar.org/452a/ca244ef62a533d8b46a54c6212fe9fa3ce9a.pdf)
 
-20. Ghosh, Soham, et al. **ExCL: Extractive Clip Localization Using Natural Language Descriptions.** arXiv preprint arXiv:1904.02755 (2019). [\[Paper\]](https://www.aclweb.org/anthology/N19-1198)
+20. Zhang, Da, et al. **MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.** arXiv preprint arXiv:1812.00087 (2018). [\[Paper\]](https://arxiv.org/pdf/1812.00087.pdf)
 
-21. Chen, Shaoxiang, and Yu-Gang Jiang. **Semantic Proposal For Activity Localization In Videos Via Sentence Query.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019.[\[Paper\]](http://yugangjiang.info/publication/19AAAI-actionlocalization.pdf)
+21. He, Dongliang, et al. **Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019. [\[Paper\]](https://arxiv.org/pdf/1901.06829.pdf)
 
-22. Yuan Y, Mei T, Zhu W. **To Find Where You Talk: Temporal Sentence Localization In Video With Attention Based Location Regression.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 9159-9166. [\[Paper\]](https://arxiv.org/pdf/1804.07014.pdf)
+22. Wang, Weining, Yan Huang, and Liang Wang. **Language-Driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Language-Driven_Temporal_Activity_Localization_A_Semantic_Matching_Reinforcement_Learning_Model_CVPR_2019_paper.pdf)
 
-23. Mithun N C, Paul S, Roy-Chowdhury A K. **Weakly Supervised Video Moment Retrieval From Text Queries**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 11592-11601.[\[Paper\]](https://arxiv.org/pdf/1904.03282.pdf)
+23. Ghosh, Soham, et al. **ExCL: Extractive Clip Localization Using Natural Language Descriptions.** arXiv preprint arXiv:1904.02755 (2019). [\[Paper\]](https://www.aclweb.org/anthology/N19-1198)
+
+24. Chen, Shaoxiang, and Yu-Gang Jiang. **Semantic Proposal For Activity Localization In Videos Via Sentence Query.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019.[\[Paper\]](http://yugangjiang.info/publication/19AAAI-actionlocalization.pdf)
+
+25. Yuan Y, Mei T, Zhu W. **To Find Where You Talk: Temporal Sentence Localization In Video With Attention Based Location Regression.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 9159-9166. [\[Paper\]](https://arxiv.org/pdf/1804.07014.pdf)
+
+26. Mithun N C, Paul S, Roy-Chowdhury A K. **Weakly Supervised Video Moment Retrieval From Text Queries**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 11592-11601.[\[Paper\]](https://arxiv.org/pdf/1904.03282.pdf)
 
 ### Grounded Description (Image) (WIP)
 
@@ -360,7 +366,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,611 | 🐛 120 | 🌐 Python | 📅 2024-01-24
 
-2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 966 | 🐛 55 | 🌐 Python | 📅 2022-10-22
+2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 967 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
 3. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.03557.pdf) [\[Code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
 
@@ -398,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

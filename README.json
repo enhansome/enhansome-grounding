@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6946,
+            "stars": 6947,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -510,7 +510,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5507,
+                "stars": 5508,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1670,6 +1670,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Li, Xinhao, et al. VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding. arXiv preprint arXiv:2607.14935 (2026). [Paper]",
+              "description": "MCG-NJU/VideoChat3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoChat3: a generalist video MLLM built for fine-grained motion, long-form reasoning, temporal grounding, and online proactive response.",
+                "homepage": null,
+                "id": 1290513696,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-02T07:35:21Z",
+                "open_issues": 3,
+                "owner": "MCG-NJU",
+                "repo": "VideoChat3",
+                "stars": 350,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T04:55:42.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Gao, Jiyang, et al. Tall: Temporal activity localization via language query. arXiv preprint arXiv:1705.02101 (2017). Method name: TALL [Paper]",
               "description": "jiyanggao/TALL",
               "children": [],
@@ -1709,6 +1730,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zhu, Yuhan, et al. VideoJev: System One Model for Video Understanding and Interaction. arXiv preprint arXiv:2610.18615 (2026). [Paper]",
+              "description": "MCG-NJU/VideoJev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                "homepage": null,
+                "id": 1409542866,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-16T16:52:29Z",
+                "open_issues": 2,
+                "owner": "MCG-NJU",
+                "repo": "VideoJev",
+                "stars": 158,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T04:55:42.916Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zhu, Yuhan, et al. TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs. arXiv preprint arXiv:2607.17423 (2026). [Paper]",
+              "description": "MCG-NJU/TimeLens2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+                "homepage": null,
+                "id": 1302170043,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-02T07:27:17Z",
+                "open_issues": 0,
+                "owner": "MCG-NJU",
+                "repo": "TimeLens2",
+                "stars": 145,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T04:55:42.916Z"
             },
             {
               "node_type": "item",
@@ -1989,7 +2052,7 @@
                 "open_issues": 55,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 966,
+                "stars": 967,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2237,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:55:15.488Z",
+    "last_updated": "2026-10-17T04:55:42.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
@@ -2245,8 +2308,8 @@
       "id": 147236836,
       "language": null,
       "license": "MIT",
-      "last_commit": "2025-09-21T10:32:22Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-16T20:52:02Z",
+      "open_issues": 3,
       "owner": "TheShadow29",
       "repo": "awesome-grounding",
       "stars": 1128,
@@ -2271,7 +2334,7 @@
         "visual-grounding"
       ]
     },
-    "original_repository_sha": "992f419a8b5b82252663ed7824fa19b6073b040c",
+    "original_repository_sha": "c2052c37283da3335ed190c157688644d12fb8b3",
     "enhanced_repository": "enhansome/enhansome-grounding",
     "enhanced_repository_description": null,
     "title": "Awesome Visual Grounding with stars"
