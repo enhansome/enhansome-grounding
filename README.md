@@ -302,7 +302,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 3. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
-4. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 158 | 🐛 2 | 🌐 Python | 📅 2026-10-16
+4. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 162 | 🐛 2 | 🌐 Python | 📅 2026-10-17
 
 5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
@@ -382,7 +382,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding in 3D
 
-1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [\[Paper\]](https://arxiv.org/abs/1912.08830)  [\[Code\]](https://github.com/daveredrum/ScanRefer) ⭐ 305 | 🐛 13 | 🌐 Python | 📅 2023-02-10
+1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [\[Paper\]](https://arxiv.org/abs/1912.08830)  [\[Code\]](https://github.com/daveredrum/ScanRefer) ⭐ 306 | 🐛 13 | 🌐 Python | 📅 2023-02-10
 
 2. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [\[Website\]](https://seeground.github.io/) [\[Paper\]](https://arxiv.org/abs/2412.04383) [\[Code\]](https://github.com/iris0329/SeeGround) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2025-04-21
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
