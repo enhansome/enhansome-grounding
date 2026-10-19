@@ -1743,11 +1743,11 @@
                 "id": 1409542866,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T16:39:46Z",
+                "last_commit": "2026-10-18T08:17:17Z",
                 "open_issues": 2,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 162,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:03:39.628Z",
+    "last_updated": "2026-10-19T05:13:48.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

@@ -302,7 +302,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 3. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
-4. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 162 | 🐛 2 | 🌐 Python | 📅 2026-10-17
+4. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 174 | 🐛 2 | 🌐 Python | 📅 2026-10-18
 
 5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
