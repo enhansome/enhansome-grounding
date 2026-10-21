@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6947,
+            "stars": 6946,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1261,
+                "stars": 1264,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -510,7 +510,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5509,
+                "stars": 5510,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1684,7 +1684,7 @@
                 "open_issues": 3,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1712,6 +1712,27 @@
             },
             {
               "node_type": "item",
+              "title": "Zhu, Yuhan, et al. VideoJev: System One Model for Video Understanding and Interaction. arXiv preprint arXiv:2610.18615 (2026). [Paper]",
+              "description": "MCG-NJU/VideoJev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                "homepage": null,
+                "id": 1409542866,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-18T08:17:17Z",
+                "open_issues": 2,
+                "owner": "MCG-NJU",
+                "repo": "VideoJev",
+                "stars": 219,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T04:55:42.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hendricks, Lisa Anne, et al. Localizing moments in video with natural language. Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. Method name: MCN [Paper]",
               "description": "LisaAnne/LocalizingMoments",
               "children": [],
@@ -1730,27 +1751,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Zhu, Yuhan, et al. VideoJev: System One Model for Video Understanding and Interaction. arXiv preprint arXiv:2610.18615 (2026). [Paper]",
-              "description": "MCG-NJU/VideoJev",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "VideoJev: System One Model for Video Understanding and Interaction",
-                "homepage": null,
-                "id": 1409542866,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-18T08:17:17Z",
-                "open_issues": 2,
-                "owner": "MCG-NJU",
-                "repo": "VideoJev",
-                "stars": 194,
-                "topics": []
-              },
-              "first_seen": "2026-10-17T04:55:42.916Z"
             },
             {
               "node_type": "item",
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:11:52.289Z",
+    "last_updated": "2026-10-21T05:14:07.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
