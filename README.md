@@ -42,7 +42,7 @@ Feel free to contact me via email (<ark.sadhu2904@gmail.com>) or open an issue o
 
 Shoutout to some other awesome stuff on vision and language grounding:
 
-1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,946 | 🐛 15 | 📅 2024-08-20
+1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,947 | 🐛 15 | 📅 2024-08-20
 2. Temporal Grounding by WuJie (@WuJie1010): <https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding> ⭐ 110 | 🐛 2 | 📅 2019-11-28. Also, checkout their implementation of some of the popular papers: <https://github.com/WuJie1010/Temporally-language-grounding> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-09-21
 3. Temporal Grounding by Mu Ketong (@iworldtong): <https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video> ⭐ 82 | 🐛 0 | 📅 2019-12-16
 
@@ -50,7 +50,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Image Grounding Datasets
 
-1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
+1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
 2. **RefCOCOg**: Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [\[Paper\]](https://arxiv.org/pdf/1511.02283.pdf) [\[Code\]](https://github.com/mjhucla/Google_Refexp_toolbox) ⭐ 166 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2017-03-01
 
@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,264 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,264 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,265 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,265 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -109,13 +109,13 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,510 | 🐛 30 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,602 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,510 | 🐛 31 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,603 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
-2. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-08-27
+2. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 577 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
 3. Yu, Licheng, et al. **Mattnet: Modular attention network for referring expression comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. [\[Paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.pdf) [\[Code\]](https://github.com/lichengunc/MAttNet) ⭐ 298 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-29 [\[Website\]](http://vision2.cs.unc.edu/refer/comprehension)
 
-4. Fukui, Akira et al. **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.** EMNLP (2016). *Method name: MCB* [\[Paper\]](https://arxiv.org/pdf/1606.01847.pdf)[\[Code\]](https://github.com/akirafukui/vqa-mcb) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2016-08-13
+4. Fukui, Akira et al. **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.** EMNLP (2016). *Method name: MCB* [\[Paper\]](https://arxiv.org/pdf/1606.01847.pdf)[\[Code\]](https://github.com/akirafukui/vqa-mcb) ⭐ 218 | 🐛 10 | 🌐 Python | 📅 2016-08-13
 
 5. Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [\[Paper\]](https://arxiv.org/pdf/1511.02283.pdf) [\[Code\]](https://github.com/mjhucla/Google_Refexp_toolbox) ⭐ 166 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2017-03-01
 
@@ -298,9 +298,9 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [\[Paper\]](https://arxiv.org/abs/2607.14935) [\[Code\]](https://github.com/MCG-NJU/VideoChat3) ⭐ 351 | 🐛 3 | 🌐 Python | 📅 2026-10-02
 
-2. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
+2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 229 | 🐛 2 | 🌐 Python | 📅 2026-10-18
 
-3. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 219 | 🐛 2 | 🌐 Python | 📅 2026-10-18
+3. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
 4. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
@@ -364,7 +364,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding Pretraining
 
-1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,611 | 🐛 120 | 🌐 Python | 📅 2024-01-24
+1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,612 | 🐛 120 | 🌐 Python | 📅 2024-01-24
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 967 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

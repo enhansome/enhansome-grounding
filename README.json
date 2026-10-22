@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6946,
+            "stars": 6947,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -106,7 +106,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "lichengunc",
                 "repo": "refer",
                 "stars": 577,
@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -507,7 +507,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2020-12-22T22:26:36Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
                 "stars": 5510,
@@ -528,7 +528,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "lichengunc",
                 "repo": "refer",
                 "stars": 577,
@@ -573,7 +573,7 @@
                 "open_issues": 10,
                 "owner": "akirafukui",
                 "repo": "vqa-mcb",
-                "stars": 219,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1691,6 +1691,27 @@
             },
             {
               "node_type": "item",
+              "title": "Zhu, Yuhan, et al. VideoJev: System One Model for Video Understanding and Interaction. arXiv preprint arXiv:2610.18615 (2026). [Paper]",
+              "description": "MCG-NJU/VideoJev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                "homepage": null,
+                "id": 1409542866,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-18T08:17:17Z",
+                "open_issues": 2,
+                "owner": "MCG-NJU",
+                "repo": "VideoJev",
+                "stars": 229,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T04:55:42.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Gao, Jiyang, et al. Tall: Temporal activity localization via language query. arXiv preprint arXiv:1705.02101 (2017). Method name: TALL [Paper]",
               "description": "jiyanggao/TALL",
               "children": [],
@@ -1709,27 +1730,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Zhu, Yuhan, et al. VideoJev: System One Model for Video Understanding and Interaction. arXiv preprint arXiv:2610.18615 (2026). [Paper]",
-              "description": "MCG-NJU/VideoJev",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "VideoJev: System One Model for Video Understanding and Interaction",
-                "homepage": null,
-                "id": 1409542866,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-18T08:17:17Z",
-                "open_issues": 2,
-                "owner": "MCG-NJU",
-                "repo": "VideoJev",
-                "stars": 219,
-                "topics": []
-              },
-              "first_seen": "2026-10-17T04:55:42.916Z"
             },
             {
               "node_type": "item",
@@ -2031,7 +2031,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2611,
+                "stars": 2612,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:14:07.442Z",
+    "last_updated": "2026-10-22T05:17:42.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
