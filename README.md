@@ -298,13 +298,13 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [\[Paper\]](https://arxiv.org/abs/2607.14935) [\[Code\]](https://github.com/MCG-NJU/VideoChat3) ⭐ 351 | 🐛 3 | 🌐 Python | 📅 2026-10-02
 
-2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 236 | 🐛 2 | 🌐 Python | 📅 2026-10-18
+2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 240 | 🐛 2 | 🌐 Python | 📅 2026-10-18
 
 3. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
 4. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
-5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2026-10-02
+5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 147 | 🐛 1 | 🌐 Python | 📅 2026-10-02
 
 6. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [\[Paper\]](https://arxiv.org/pdf/1909.05010.pdf) [\[Code\]](https://github.com/JaywongWang/CBP) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2023-03-24
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
