@@ -42,7 +42,7 @@ Feel free to contact me via email (<ark.sadhu2904@gmail.com>) or open an issue o
 
 Shoutout to some other awesome stuff on vision and language grounding:
 
-1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,947 | 🐛 15 | 📅 2024-08-20
+1. Multi-modal Reading List by Paul Liang (@pliang279) : <https://github.com/pliang279/awesome-multimodal-ml/> ⭐ 6,948 | 🐛 15 | 📅 2024-08-20
 2. Temporal Grounding by WuJie (@WuJie1010): <https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding> ⭐ 110 | 🐛 2 | 📅 2019-11-28. Also, checkout their implementation of some of the popular papers: <https://github.com/WuJie1010/Temporally-language-grounding> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-09-21
 3. Temporal Grounding by Mu Ketong (@iworldtong): <https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video> ⭐ 82 | 🐛 0 | 📅 2019-12-16
 
@@ -144,10 +144,10 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 17. Gupta, Tanmay, et al. **Contrastive learning for weakly supervised phrase grounding.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [\[Paper\]](https://arxiv.org/pdf/2006.09920) [\[Code\]](https://github.com/BigRedT/info-ground) ⭐ 73 | 🐛 6 | 🌐 Python | 📅 2020-08-22
 
-18. Sadhu, Arka, Kan Chen, and Ram Nevatia. **Zero-Shot Grounding of Objects from Natural Language Queries.** arXiv preprint arXiv:1908.07129 (2019).(ICCV 2019) [\[Paper\]](https://arxiv.org/abs/1908.07129) [\[Code\]](https://github.com/TheShadow29/zsgnet-pytorch) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2020-04-22
-    *Disclaimer: I am an author of the paper*
+18. Chen, Kan, Rama Kovvuri, and Ram Nevatia. **Query-guided regression network with context policy for phrase grounding.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: QRC* [\[Paper\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Query-Guided_Regression_Network_ICCV_2017_paper.pdf) [\[Code\]](https://github.com/kanchen-usc/QRC-Net) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2018-03-30
 
-19. Chen, Kan, Rama Kovvuri, and Ram Nevatia. **Query-guided regression network with context policy for phrase grounding.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: QRC* [\[Paper\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Query-Guided_Regression_Network_ICCV_2017_paper.pdf) [\[Code\]](https://github.com/kanchen-usc/QRC-Net) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2018-03-30
+19. Sadhu, Arka, Kan Chen, and Ram Nevatia. **Zero-Shot Grounding of Objects from Natural Language Queries.** arXiv preprint arXiv:1908.07129 (2019).(ICCV 2019) [\[Paper\]](https://arxiv.org/abs/1908.07129) [\[Code\]](https://github.com/TheShadow29/zsgnet-pytorch) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2020-04-22
+    *Disclaimer: I am an author of the paper*
 
 20. Hu, Ronghang, et al. **Modeling relationships in referential expressions with compositional modular networks.** Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017. [\[Paper\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Modeling_Relationships_in_CVPR_2017_paper.pdf) [\[Code\]](https://github.com/ronghanghu/cmn) ⭐ 67 | 🐛 9 | 🌐 Python | 📅 2018-09-20
 
@@ -187,9 +187,9 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 38. Yu, Zhou, et al. **Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding.** arXiv preprint arXiv:1805.03508 (2018). [\[Paper\]](https://www.ijcai.org/proceedings/2018/0155.pdf) [\[Code\]](https://github.com/XiangChenchao/DDPN) ⭐ 23 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-06-27
 
-39. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [\[Paper\]](https://arxiv.org/abs/2508.06259) [\[Code\]](https://github.com/zhangquanchen/SIFThinker) ⭐ 23 | 🐛 0 | 📅 2025-12-02
+39. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2020-12-20
 
-40. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [\[Paper\]](https://arxiv.org/pdf/2009.01449) [\[Code\]](https://github.com/ChopinSharp/ref-nms) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2020-12-20
+40. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [\[Paper\]](https://arxiv.org/abs/2508.06259) [\[Code\]](https://github.com/zhangquanchen/SIFThinker) ⭐ 23 | 🐛 0 | 📅 2025-12-02
 
 41. Wang, Josiah, and Lucia Specia. **Phrase Localization Without Paired Training Examples.** arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [\[Paper\]](https://arxiv.org/abs/1908.07553) [\[Code\]](https://github.com/josiahwang/phraseloceval) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2019-08-16
 
@@ -296,15 +296,15 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Video Grounding (Activity Localization) using Natural Language:
 
-1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [\[Paper\]](https://arxiv.org/abs/2607.14935) [\[Code\]](https://github.com/MCG-NJU/VideoChat3) ⭐ 350 | 🐛 3 | 🌐 Python | 📅 2026-10-02
+1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [\[Paper\]](https://arxiv.org/abs/2607.14935) [\[Code\]](https://github.com/MCG-NJU/VideoChat3) ⭐ 351 | 🐛 3 | 🌐 Python | 📅 2026-10-02
 
-2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 249 | 🐛 2 | 🌐 Python | 📅 2026-10-18
+2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 257 | 🐛 2 | 🌐 Python | 📅 2026-10-18
 
 3. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
 4. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 198 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
-5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 147 | 🐛 1 | 🌐 Python | 📅 2026-10-02
+5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 149 | 🐛 1 | 🌐 Python | 📅 2026-10-02
 
 6. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [\[Paper\]](https://arxiv.org/pdf/1909.05010.pdf) [\[Code\]](https://github.com/JaywongWang/CBP) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2023-03-24
 
@@ -364,7 +364,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding Pretraining
 
-1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⭐ 2,612 | 🐛 120 | 🌐 Python | 📅 2024-01-24
+1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [\[Paper\]](https://arxiv.org/abs/2112.03857) [\[Code\]](https://github.com/microsoft/GLIP) ⚠️ Archived
 
 2. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [\[Paper\]](https://arxiv.org/pdf/1908.07490.pdf) [\[Code\]](https://github.com/airsplay/lxmert) ⭐ 967 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
@@ -394,7 +394,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Grounding for Embodied Agents (WIP):
 
-1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [\[Paper\]](https://arxiv.org/pdf/1912.01734.pdf) [\[Code\]](https://github.com/askforalfred/alfred) ⭐ 531 | 🐛 23 | 🌐 C | 📅 2026-02-05 [\[Website\]](https://askforalfred.com/)
+1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [\[Paper\]](https://arxiv.org/pdf/1912.01734.pdf) [\[Code\]](https://github.com/askforalfred/alfred) ⭐ 532 | 🐛 23 | 🌐 C | 📅 2026-02-05 [\[Website\]](https://askforalfred.com/)
 
 ### Misc:
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

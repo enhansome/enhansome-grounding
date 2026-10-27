@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6947,
+            "stars": 6948,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -872,32 +872,6 @@
             },
             {
               "node_type": "item",
-              "title": "Sadhu, Arka, Kan Chen, and Ram Nevatia. Zero-Shot Grounding of Objects from Natural Language Queries. arXiv preprint arXiv:1908.07129 (2019).(ICCV 2019) [Paper]",
-              "description": "[Code] Disclaimer: I am an author of the paper",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of ICCV19 oral paper Zero-Shot grounding of Objects from Natural Language Queries (https://arxiv.org/abs/1908.07129)",
-                "homepage": null,
-                "id": 196621546,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2020-04-22T23:11:09Z",
-                "open_issues": 4,
-                "owner": "TheShadow29",
-                "repo": "zsgnet-pytorch",
-                "stars": 71,
-                "topics": [
-                  "grounding",
-                  "nlp",
-                  "objects",
-                  "vision"
-                ]
-              },
-              "first_seen": "2026-08-28T12:08:08.293Z"
-            },
-            {
-              "node_type": "item",
               "title": "Chen, Kan, Rama Kovvuri, and Ram Nevatia. Query-guided regression network with context policy for phrase grounding. Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. Method name: QRC [Paper]",
               "description": "kanchen-usc/QRC-Net",
               "children": [],
@@ -917,6 +891,32 @@
                   "attention-mechanism",
                   "phrase-grounding",
                   "regression-models"
+                ]
+              },
+              "first_seen": "2026-08-28T12:08:08.293Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sadhu, Arka, Kan Chen, and Ram Nevatia. Zero-Shot Grounding of Objects from Natural Language Queries. arXiv preprint arXiv:1908.07129 (2019).(ICCV 2019) [Paper]",
+              "description": "[Code] Disclaimer: I am an author of the paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of ICCV19 oral paper Zero-Shot grounding of Objects from Natural Language Queries (https://arxiv.org/abs/1908.07129)",
+                "homepage": null,
+                "id": 196621546,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2020-04-22T23:11:09Z",
+                "open_issues": 4,
+                "owner": "TheShadow29",
+                "repo": "zsgnet-pytorch",
+                "stars": 70,
+                "topics": [
+                  "grounding",
+                  "nlp",
+                  "objects",
+                  "vision"
                 ]
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1355,6 +1355,27 @@
             },
             {
               "node_type": "item",
+              "title": "Chen, Long, et al. Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding. arXiv preprint arXiv:2009.01449 (AAAI-2021). [Paper]",
+              "description": "ChopinSharp/ref-nms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official codebase for \"Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding\"",
+                "homepage": null,
+                "id": 318063798,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2020-12-20T08:51:53Z",
+                "open_issues": 1,
+                "owner": "ChopinSharp",
+                "repo": "ref-nms",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:08:08.293Z"
+            },
+            {
+              "node_type": "item",
               "title": "Chen, Zhangquan, et al. SIFThinker: Spatially-Aware Image Focus for Visual Reasoning. arXiv preprint arXiv:2508.06259. [Paper]",
               "description": "zhangquanchen/SIFThinker",
               "children": [],
@@ -1370,27 +1391,6 @@
                 "owner": "zhangquanchen",
                 "repo": "SIFThinker",
                 "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:08:08.293Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Chen, Long, et al. Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding. arXiv preprint arXiv:2009.01449 (AAAI-2021). [Paper]",
-              "description": "ChopinSharp/ref-nms",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official codebase for \"Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding\"",
-                "homepage": null,
-                "id": 318063798,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2020-12-20T08:51:53Z",
-                "open_issues": 1,
-                "owner": "ChopinSharp",
-                "repo": "ref-nms",
-                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1684,7 +1684,7 @@
                 "open_issues": 3,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 2,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 249,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1768,7 +1768,7 @@
                 "open_issues": 1,
                 "owner": "MCG-NJU",
                 "repo": "TimeLens2",
-                "stars": 147,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2021,7 +2021,7 @@
               "description": "microsoft/GLIP",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Grounded Language-Image Pre-training",
                 "homepage": null,
                 "id": 431300490,
@@ -2031,7 +2031,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2612,
+                "stars": 2613,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2236,7 +2236,7 @@
                 "open_issues": 23,
                 "owner": "askforalfred",
                 "repo": "alfred",
-                "stars": 531,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T05:13:17.022Z",
+    "last_updated": "2026-10-27T05:30:47.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
@@ -2312,7 +2312,7 @@
       "open_issues": 4,
       "owner": "TheShadow29",
       "repo": "awesome-grounding",
-      "stars": 1128,
+      "stars": 1129,
       "topics": [
         "arxiv",
         "awesome-list",
