@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6948,
+            "stars": 6949,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1033,7 +1033,7 @@
                 "open_issues": 0,
                 "owner": "zhangquanchen",
                 "repo": "VisRL",
-                "stars": 48,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1681,10 +1681,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T07:35:21Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 351,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1702,10 +1702,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-18T08:17:17Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 257,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1765,7 +1765,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T07:27:17Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "TimeLens2",
                 "stars": 149,
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T05:30:47.554Z",
+    "last_updated": "2026-10-28T06:12:51.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
