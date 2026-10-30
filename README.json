@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1266,
+                "stars": 1268,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -510,7 +510,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5511,
+                "stars": 5512,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1681,7 +1681,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T07:35:21Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
                 "stars": 355,
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 270,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:23:16.960Z",
+    "last_updated": "2026-10-30T06:22:06.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
@@ -2312,7 +2312,7 @@
       "open_issues": 4,
       "owner": "TheShadow29",
       "repo": "awesome-grounding",
-      "stars": 1129,
+      "stars": 1130,
       "topics": [
         "arxiv",
         "awesome-list",
