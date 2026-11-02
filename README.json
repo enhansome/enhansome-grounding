@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 277,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2052,7 +2052,7 @@
                 "open_issues": 55,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 967,
+                "stars": 968,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:46:01.457Z",
+    "last_updated": "2026-11-02T06:43:56.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
