@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6949,
+            "stars": 6950,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -510,7 +510,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5513,
+                "stars": 5514,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1684,7 +1684,7 @@
                 "open_issues": 5,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 358,
+                "stars": 361,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 291,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2052,7 +2052,7 @@
                 "open_issues": 55,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 968,
+                "stars": 970,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:18:07.799Z",
+    "last_updated": "2026-11-06T07:18:24.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
