@@ -109,7 +109,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Visual Grounding / Referring Expressions (Images):
 
-1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,513 | 🐛 31 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,604 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+1. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [\[Code\]](https://github.com/karpathy/neuraltalk) ⭐ 5,512 | 🐛 31 | 🌐 Python | 📅 2020-12-22 [\[Torch Code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,603 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2017-11-07 [\[Website\]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
 
 2. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [\[Paper\]](https://arxiv.org/pdf/1608.00272.pdf)[\[Code\]](https://github.com/lichengunc/refer) ⭐ 578 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2024-08-27
 
@@ -298,7 +298,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [\[Paper\]](https://arxiv.org/abs/2607.14935) [\[Code\]](https://github.com/MCG-NJU/VideoChat3) ⭐ 361 | 🐛 5 | 🌐 Python | 📅 2026-10-02
 
-2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 299 | 🐛 0 | 🌐 Python | 📅 2026-10-18
+2. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [\[Paper\]](https://arxiv.org/abs/2610.18615) [\[Code\]](https://github.com/MCG-NJU/VideoJev) ⭐ 303 | 🐛 0 | 🌐 Python | 📅 2026-10-18
 
 3. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [\[Paper\]](https://arxiv.org/pdf/1705.02101.pdf) [\[Code\]](https://github.com/jiyanggao/TALL) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2018-03-15
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

@@ -510,7 +510,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5513,
+                "stars": 5512,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 299,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:06:06.645Z",
+    "last_updated": "2026-11-10T07:41:21.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
