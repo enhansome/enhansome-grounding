@@ -347,7 +347,7 @@
                 "open_issues": 12,
                 "owner": "LisaAnne",
                 "repo": "LocalizingMoments",
-                "stars": 198,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -510,7 +510,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5512,
+                "stars": 5513,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -552,7 +552,7 @@
                 "open_issues": 22,
                 "owner": "lichengunc",
                 "repo": "MAttNet",
-                "stars": 298,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1684,7 +1684,7 @@
                 "open_issues": 5,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 306,
+                "stars": 308,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1747,7 +1747,7 @@
                 "open_issues": 12,
                 "owner": "LisaAnne",
                 "repo": "LocalizingMoments",
-                "stars": 198,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:00:20.487Z",
+    "last_updated": "2026-11-12T07:39:05.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
