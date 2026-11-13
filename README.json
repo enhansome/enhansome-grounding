@@ -1681,7 +1681,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T07:35:21Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
                 "stars": 362,
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2031,7 +2031,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2613,
+                "stars": 2612,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:39:05.245Z",
+    "last_updated": "2026-11-13T07:10:35.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
