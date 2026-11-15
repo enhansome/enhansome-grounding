@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6958,
+            "stars": 6959,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1270,
+                "stars": 1271,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -1680,11 +1680,11 @@
                 "id": 1290513696,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T07:35:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-15T00:58:10Z",
+                "open_issues": 3,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 309,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:57:30.713Z",
+    "last_updated": "2026-11-15T07:06:18.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
