@@ -573,7 +573,7 @@
                 "open_issues": 10,
                 "owner": "akirafukui",
                 "repo": "vqa-mcb",
-                "stars": 218,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:06:18.315Z",
+    "last_updated": "2026-11-16T07:11:58.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

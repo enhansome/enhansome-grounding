@@ -115,7 +115,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 3. Yu, Licheng, et al. **Mattnet: Modular attention network for referring expression comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. [\[Paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.pdf) [\[Code\]](https://github.com/lichengunc/MAttNet) ⭐ 297 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-29 [\[Website\]](http://vision2.cs.unc.edu/refer/comprehension)
 
-4. Fukui, Akira et al. **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.** EMNLP (2016). *Method name: MCB* [\[Paper\]](https://arxiv.org/pdf/1606.01847.pdf)[\[Code\]](https://github.com/akirafukui/vqa-mcb) ⭐ 218 | 🐛 10 | 🌐 Python | 📅 2016-08-13
+4. Fukui, Akira et al. **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.** EMNLP (2016). *Method name: MCB* [\[Paper\]](https://arxiv.org/pdf/1606.01847.pdf)[\[Code\]](https://github.com/akirafukui/vqa-mcb) ⭐ 217 | 🐛 10 | 🌐 Python | 📅 2016-08-13
 
 5. Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [\[Paper\]](https://arxiv.org/pdf/1511.02283.pdf) [\[Code\]](https://github.com/mjhucla/Google_Refexp_toolbox) ⭐ 166 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2017-03-01
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
