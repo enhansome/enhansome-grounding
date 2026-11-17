@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6959,
+            "stars": 6961,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -510,7 +510,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5513,
+                "stars": 5514,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1768,7 +1768,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "TimeLens2",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2031,7 +2031,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "GLIP",
-                "stars": 2612,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2052,7 +2052,7 @@
                 "open_issues": 55,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 970,
+                "stars": 971,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 14,
                 "owner": "uclanlp",
                 "repo": "visualbert",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2153,7 +2153,7 @@
                 "open_issues": 1,
                 "owner": "iris0329",
                 "repo": "SeeGround",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "3d-scene-understanding",
                   "3d-visual-grounding",
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:11:58.549Z",
+    "last_updated": "2026-11-17T08:24:56.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
