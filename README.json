@@ -109,7 +109,7 @@
                 "open_issues": 21,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 578,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -531,7 +531,7 @@
                 "open_issues": 21,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 578,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1684,7 +1684,7 @@
                 "open_issues": 3,
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 313,
+                "stars": 315,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:53:30.597Z",
+    "last_updated": "2026-11-19T07:51:11.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
