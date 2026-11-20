@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6961,
+            "stars": 6959,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1271,
+                "stars": 1270,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -510,7 +510,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5514,
+                "stars": 5513,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 315,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2052,7 +2052,7 @@
                 "open_issues": 55,
                 "owner": "airsplay",
                 "repo": "lxmert",
-                "stars": 971,
+                "stars": 969,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 14,
                 "owner": "uclanlp",
                 "repo": "visualbert",
-                "stars": 543,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:08:08.293Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:51:11.583Z",
+    "last_updated": "2026-11-20T07:41:40.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
