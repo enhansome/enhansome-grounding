@@ -473,7 +473,7 @@
                 "open_issues": 58,
                 "owner": "niessner",
                 "repo": "Matterport",
-                "stars": 1270,
+                "stars": 1272,
                 "topics": [
                   "3d-reconstruction",
                   "semantic-scene-understanding"
@@ -1768,7 +1768,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "TimeLens2",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:39:03.586Z",
+    "last_updated": "2026-11-22T07:22:15.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",

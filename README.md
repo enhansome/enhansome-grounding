@@ -97,7 +97,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ### Embodied Agents Platforms:
 
-1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,270 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,270 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [\[Paper\]](https://arxiv.org/pdf/1711.07280.pdf) [\[Code\]](https://github.com/niessner/Matterport) ⭐ 1,272 | 🐛 58 | 🌐 C++ | 📅 2025-11-03 [\[Website\]](https://github.com/niessner/Matterport) ⭐ 1,272 | 🐛 58 | 🌐 C++ | 📅 2025-11-03
    * Photorealistic rooms
 
 2. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [\[Paper\]](https://arxiv.org/pdf/1712.05474.pdf) [\[Website\]](https://ai2thor.allenai.org/)
@@ -304,7 +304,7 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 4. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [\[Paper\]](https://arxiv.org/pdf/1708.01641.pdf) [\[Code\]](https://github.com/LisaAnne/LocalizingMoments) ⭐ 197 | 🐛 12 | 🌐 OpenEdge ABL | 📅 2020-10-31
 
-5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2026-10-02
+5. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [\[Paper\]](https://arxiv.org/abs/2607.17423) [\[Code\]](https://github.com/MCG-NJU/TimeLens2) ⭐ 153 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
 6. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [\[Paper\]](https://arxiv.org/pdf/1909.05010.pdf) [\[Code\]](https://github.com/JaywongWang/CBP) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2023-03-24
 
@@ -404,4 +404,4 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
