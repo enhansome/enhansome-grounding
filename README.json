@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6960,
+            "stars": 6961,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VideoJev",
-                "stars": 320,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-10-17T04:55:42.916Z"
@@ -2300,7 +2300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:59:36.824Z",
+    "last_updated": "2026-11-28T08:21:39.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome grounding: A curated list of research papers in visual grounding",
